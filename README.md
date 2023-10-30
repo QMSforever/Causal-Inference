@@ -6,7 +6,7 @@ This is a Causal Panel Data reading list
 
 ## Foundational Texts (Beginner to Intermediate)
 1. **Angrist, J. D., & Pischke, J.-S. (2009)**: "Mostly Harmless Econometrics: An Empiricist's Companion". A user-friendly introduction to econometrics and causal inference.
-2. **Wooldridge, J. M. (2010)**: "Econometric Analysis of Cross Section and Panel Data". Comprehensive introduction to econometrics with a focus on panel data analysis.
+2. **Wooldridge, J. M. (2010)**: "Econometric Analysis of Cross Section and Panel Data, Second Edition". Comprehensive introduction to econometrics with a focus on panel data analysis.
 
 ## Methodological Foundations (Intermediate)
 3. **Imbens, G. W., & Wooldridge, J. M. (2009)**: "Recent Developments in the Econometrics of Program Evaluation". Insightful overview of econometric methods for program evaluation, integral to causal panel data analysis.
