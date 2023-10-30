@@ -1,11 +1,11 @@
 # Causal-Panel-Data-Reading-List
 This is a Causal Panel Data reading list 
 
-* [1. Foundational Texts](#foundational-texts)
-* [2. Methodological Advances](#methodological-advances)
-* [3. Applications and Case Studies](#applications-and-case-studies)
-* [4. Specialized Topics](#specialized-topics)
-* [5. Software and Practical Guides](#software-and-practical-guides)
+* [ Foundational Texts](#foundational-texts)
+* [ Methodological Advances](#methodological-advances)
+* [ Applications and Case Studies](#applications-and-case-studies)
+* [ Specialized Topics](#specialized-topics)
+* [ Software and Practical Guides](#software-and-practical-guides)
 
 ## Foundational Texts
 ### Foundational Texts (Beginner to Intermediate)
