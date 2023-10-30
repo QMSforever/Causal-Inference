@@ -11,7 +11,7 @@ This is a Causal Panel Data reading list
 
 # Reading List for Beginners in Causal Panel Data
 
-#foundational-texts
+#Foundational Texts
 ## Foundational Texts (Beginner to Intermediate)
 1. **Angrist, J. D., & Pischke, J.-S. (2009)**: "Mostly Harmless Econometrics: An Empiricist's Companion". A user-friendly introduction to econometrics and causal inference.
 2. **Wooldridge, J. M. (2010)**: "Econometric Analysis of Cross Section and Panel Data, Second Edition". Comprehensive introduction to econometrics with a focus on panel data analysis.
@@ -23,7 +23,7 @@ This is a Causal Panel Data reading list
 6. **Imbens, G. W. (2010)**: "Better LATE Than Nothing". Discusses instrumental variables and their applications.
 7. **Hahn, J., Todd, P., & Van der Klaauw, W. (2001)**: "Identification and Estimation of Treatment Effects with a Regression-Discontinuity Design". An influential paper on regression-discontinuity design, a cutting-edge method in causal inference.
 
-#methodological-advances
+#Methodological Advances
 ## Advanced Methodological Texts
 8. **Abadie, A., Diamond, A., & Hainmueller, J. (2010)**: "Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California's Tobacco Control Program". A seminal paper on synthetic control methods, essential for advanced understanding of causal panel data analysis.
 9. **Arellano, M., & Bond, S. (1991)**: "Some Tests of Specification for Panel Data: Monte Carlo Evidence and an Application to Employment Equations". This paper is fundamental for understanding dynamic panel data models.
@@ -32,17 +32,17 @@ This is a Causal Panel Data reading list
 12. **Bai, J. (2009)**: "Panel Data Models with Interactive Fixed Effects". Presents models for panel data with interactive effects.
 13. **Athey, S. and Imbens, G. W. (2006)**: "Identification and Inference in Nonlinear Difference-in-Differences Models". Covers nonlinear models in difference-in-differences settings.
 
-#Specialized-Topics
+#Specialized Topics
 ## Specialized Topics
 14. **Athey, S., & Imbens, G. W. (2017)**: "The State of Applied Econometrics: Causality and Policy Evaluation". A paper that discusses modern approaches in applied econometrics, specifically causality and policy evaluation.
 15. **Chernozhukov, V., Hansen, C., & Spindler, M. (2015)**: "Valid Post-Selection and Post-Regularization Inference: An Elementary, General Approach". For readers interested in post-selection inference, crucial for understanding model selection in causal analysis.
 
-#applications
+#Applications and Case Studies
 ## Practical Application
 16. **Belloni, A., Chernozhukov, V., & Hansen, C. (2014)**: "Inference on Treatment Effects after Selection among High-Dimensional Controls". This paper provides practical guidance on dealing with high-dimensional controls in causal inference.
 17. **Xu, Y. (2017)**: "Generalized Synthetic Control Method: Causal Inference with Interactive Fixed Effects Models". A practical guide to the generalized synthetic control method, useful for applied researchers.
 
-#software-and-practical-guides
+#Software and Practical Guides
 ## Software and Practical Guides
 18. **Mou, H., Liu, L., and Xu, Y. (2023)**: "Panel Data Visualization in R (panelView) and Stata (panelview)". Tools for visualizing panel data.
 19. **Blackwell, M. and Yamauchi, S. (2021)**: "Adjusting for Unmeasured Confounding in Marginal Structural Models". Guide to dealing with confounding in models.
