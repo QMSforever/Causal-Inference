@@ -9,15 +9,18 @@ This is a Causal Panel Data reading list
 
 ## Foundational Texts
 ### Foundational Texts (Beginner to Intermediate)
-1. **Angrist, J. D., & Pischke, J.-S. (2009)**: "Mostly Harmless Econometrics: An Empiricist's Companion". A user-friendly introduction to econometrics and causal inference.
-2. **Wooldridge, J. M. (2010)**: "Econometric Analysis of Cross Section and Panel Data, Second Edition". Comprehensive introduction to econometrics with a focus on panel data analysis.
-3. **Hsiao, C. (2003)**: "Analysis of Panel Data". Detailed exploration of panel data analysis techniques.
-4. **Beck, N. (2008)**: "Time-Series Cross-Section Methods". Overview of methods for analyzing time-series cross-section data.
+1. **Rubin, D. B. (1978)**: "Bayesian Inference for Causal Effects: The Role of Randomization". A pioneering paper that advanced the Bayesian approach to causal inference, emphasizing the importance of randomization and laying foundational concepts for the Rubin Causal Model.
+2. **Hsiao, C. (2003)**: "Analysis of Panel Data". Detailed exploration of panel data analysis techniques.
+3. **Beck, N. (2008)**: "Time-Series Cross-Section Methods". Overview of methods for analyzing time-series cross-section data.
+4. **Angrist, J. D., & Pischke, J.-S. (2009)**: "Mostly Harmless Econometrics: An Empiricist's Companion". A user-friendly introduction to econometrics and causal inference.
+5. **Wooldridge, J. M. (2010)**: "Econometric Analysis of Cross Section and Panel Data, Second Edition". Comprehensive introduction to econometrics with a focus on panel data analysis.
+   
 
 ### Methodological Foundations (Intermediate)
-5. **Imbens, G. W., & Wooldridge, J. M. (2009)**: "Recent Developments in the Econometrics of Program Evaluation". Insightful overview of econometric methods for program evaluation, integral to causal panel data analysis.
-6. **Imbens, G. W. (2010)**: "Better LATE Than Nothing". Discusses instrumental variables and their applications.
-7. **Hahn, J., Todd, P., & Van der Klaauw, W. (2001)**: "Identification and Estimation of Treatment Effects with a Regression-Discontinuity Design". An influential paper on regression-discontinuity design, a cutting-edge method in causal inference.
+6. **Imbens, G. W., & Wooldridge, J. M. (2009)**: "Recent Developments in the Econometrics of Program Evaluation". Insightful overview of econometric methods for program evaluation, integral to causal panel data analysis.
+7. **Imbens, G. W. (2010)**: "Better LATE Than Nothing". Discusses instrumental variables and their applications.
+8. **Hahn, J., Todd, P., & Van der Klaauw, W. (2001)**: "Identification and Estimation of Treatment Effects with a Regression-Discontinuity Design". An influential paper on regression-discontinuity design, a cutting-edge method in causal inference.
+9. **Morgan, S. L., & Winship, C. (2014)**: "Counterfactuals and Causal Inference: Methods and Principles for Social Research". A comprehensive exploration of counterfactual reasoning and its applications in social research, essential for understanding causal inference.
 
 ## Methodological Advances
 ### Advanced Methodological Texts
