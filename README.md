@@ -2,12 +2,12 @@
 This is a Causal Panel Data Reading List 
 
 * [ Foundational Texts](#foundational-texts)
-* [ Introduction to Causal Inference](#introduction-to-causal-inference)
 * [Introduction to Time-Series Cross-Sectional Data (TSCS)](#introduction-to-time-series-cross-sectional-data)
 * [ Methodological Foundations (Intermediate)](#methodological-foundations)
     * [Difference-in-Differences (DID)](#difference-in-differences)
     * [Twoway Fixed Effects (TWFE)](#twoway-fixed-effects)
     * [The Synthetic Control Method (SCM)](#the-synthetic-control-method)
+* [ Introduction to Causal Inference (Intermediate)](#introduction-to-causal-inference)
 * [ Methodological Advances](#methodological-advances)
 * [Introduction to Causal Panel Data](#introduction-to-causal-panel-data)
 * [ Specialized Topics](#specialized-topics)
@@ -26,18 +26,6 @@ This is a Causal Panel Data Reading List
 7. **Beck, N. (2008)**: "Time-Series Cross-Section Methods". Overview of methods for analyzing time-series cross-section data.
 8. **Angrist, J. D., & Pischke, J.-S. (2009)**: "Mostly Harmless Econometrics: An Empiricist's Companion". A user-friendly introduction to econometrics and causal inference.
 9. **Wooldridge, J. M. (2010)**: "Econometric Analysis of Cross Section and Panel Data, Second Edition". Comprehensive introduction to econometrics with a focus on panel data analysis.
-   
-## Introduction to Causal Inference 
-### Introduction to Causal Inference
-1. **Rubin, D. B. (1978)**: "Bayesian Inference for Causal Effects: The Role of Randomization". A pioneering paper that advanced the Bayesian approach to causal inference, emphasizing the importance of randomization and laying foundational concepts for the Rubin Causal Model.
-2. **Imbens, G. W., & Wooldridge, J. M. (2009)**: "Recent Developments in the Econometrics of Program Evaluation". Insightful overview of econometric methods for program evaluation, integral to causal panel data analysis.
-3. **Imbens, G. W. (2010)**: "Better LATE Than Nothing". Discusses instrumental variables and their applications.
-4. **Hahn, J., Todd, P., & Van der Klaauw, W. (2001)**: "Identification and Estimation of Treatment Effects with a Regression-Discontinuity Design". An influential paper on regression-discontinuity design, a cutting-edge method in causal inference.
-5. **Morgan, S. L., & Winship, C. (2014)**: "Counterfactuals and Causal Inference: Methods and Principles for Social Research". A comprehensive exploration of counterfactual reasoning and its applications in social research, essential for understanding causal inference.
-6. **Aronow, Peter M and Cyrus Samii. (2016)**: "Does Regression Produce Representative Estimates of Causal Effects?" The authors examine the assumptions under which regression methods yield unbiased causal estimates.
-7. **Chernozhukov, Victor, Kaspar Wuthrich, and Yinchu Zhu. (2017)**: "An Exact and Robust Conformal Inference Method for Counterfactual and Synthetic Controls." Chernozhukov presents a robust method for counterfactual prediction and policy analysis.
-8. **Doudchenko, Nikolay and Guido W Imbens. (2016)**: "Balancing, Regression, Difference-in-Differences and Synthetic Control Methods: A Synthesis." Technical report, National Bureau of Economic Research. Doudchenko and Imbens synthesize various methods used for causal inference, including balancing and synthetic controls
-
 
 ## Introduction to Time-Series Cross-Sectional Data (TSCS) (Beginner to Intermediate)
 ### Introduction to Time-Series Cross-Sectional Data
@@ -56,9 +44,6 @@ This is a Causal Panel Data Reading List
 12. **Chernozhukov, Victor, Ivan Fernandez-Val, Jinyong Hahn, and Whitney Newey. (2013)**: "Average and Quantile Effects in Nonseparable Panel Models."
 13. **Brodersen, Kay H., Fabian Gallusser, Jim Koehler, Nicolas Remy, and Steven L. Scott. (2015)**: "Inferring Causal Impact Using Bayesian Structural Time-Series Models."
 14. **Fernández-Val, Iván and Martin Weidner. (2018)**: "Fixed Effects Estimation of Large-T Panel Data Models." Annual Review of Economics, 10:109–138. This review covers fixed effects estimation techniques for panel data models with a large number of time periods.
-
-
-
 
 
 ## Methodological Foundations (Intermediate)
@@ -134,6 +119,18 @@ This is a Causal Panel Data Reading List
 17.  **Chernozhukov, Victor, Kaspar Wüthrich, and Yinchu Zhu. (2021)**: "An Exact and Robust Conformal Inference Method for Counterfactual and Synthetic Controls."
 18.  **Ferman, Bruno and Cristine Pinto. (2021)**: "Synthetic Controls with Imperfect Pre-treatment Fit." 
 19.  **Pang, Xun, Licheng Liu, and Yiqing Xu. (2022)**: "A Bayesian Alternative to Synthetic Control for Comparative Case Studies."
+
+## Introduction to Causal Inference (Intermediate)
+### Introduction to Causal Inference
+1. **Rubin, D. B. (1978)**: "Bayesian Inference for Causal Effects: The Role of Randomization". A pioneering paper that advanced the Bayesian approach to causal inference, emphasizing the importance of randomization and laying foundational concepts for the Rubin Causal Model.
+2. **Imbens, G. W., & Wooldridge, J. M. (2009)**: "Recent Developments in the Econometrics of Program Evaluation". Insightful overview of econometric methods for program evaluation, integral to causal panel data analysis.
+3. **Imbens, G. W. (2010)**: "Better LATE Than Nothing". Discusses instrumental variables and their applications.
+4. **Hahn, J., Todd, P., & Van der Klaauw, W. (2001)**: "Identification and Estimation of Treatment Effects with a Regression-Discontinuity Design". An influential paper on regression-discontinuity design, a cutting-edge method in causal inference.
+5. **Morgan, S. L., & Winship, C. (2014)**: "Counterfactuals and Causal Inference: Methods and Principles for Social Research". A comprehensive exploration of counterfactual reasoning and its applications in social research, essential for understanding causal inference.
+6. **Aronow, Peter M and Cyrus Samii. (2016)**: "Does Regression Produce Representative Estimates of Causal Effects?" The authors examine the assumptions under which regression methods yield unbiased causal estimates.
+7. **Chernozhukov, Victor, Kaspar Wuthrich, and Yinchu Zhu. (2017)**: "An Exact and Robust Conformal Inference Method for Counterfactual and Synthetic Controls." Chernozhukov presents a robust method for counterfactual prediction and policy analysis.
+8. **Doudchenko, Nikolay and Guido W Imbens. (2016)**: "Balancing, Regression, Difference-in-Differences and Synthetic Control Methods: A Synthesis." Technical report, National Bureau of Economic Research. Doudchenko and Imbens synthesize various methods used for causal inference, including balancing and synthetic controls
+
 
 
 ## Introduction to Causal Panel Data (Advanced)
