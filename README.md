@@ -2,6 +2,7 @@
 This is a Causal Panel Data reading list 
 
 * [ Foundational Texts](#foundational-texts)
+* [ Introduction to Causal Inference](#introduction_to_causal_inference)
 * [ Methodological Advances](#methodological-advances)
 * [ Applications and Case Studies](#applications-and-case-studies)
 * [ Specialized Topics](#specialized-topics)
@@ -9,15 +10,20 @@ This is a Causal Panel Data reading list
 
 ## Foundational Texts 
 ### Foundational Texts (Beginner)
-1. **Rubin, D. B. (1978)**: "Bayesian Inference for Causal Effects: The Role of Randomization". A pioneering paper that advanced the Bayesian approach to causal inference, emphasizing the importance of randomization and laying foundational concepts for the Rubin Causal Model.
-2. **Mundlak, Yair. (1978)**: "On the Pooling of Time Series and Cross Section Data". This paper discusses methodologies for combining time series and cross-sectional data, offering significant contributions to econometric analysis.
-3. **Nickell, Stephen. (1981)**: "Biases in Dynamic Models with Fixed Effects". This paper explores the potential biases in dynamic models with fixed effects.
+1. **Mundlak, Yair. (1978)**: "On the Pooling of Time Series and Cross Section Data". This paper discusses methodologies for combining time series and cross-sectional data.
+2. **Nickell, Stephen. (1981)**: "Biases in Dynamic Models with Fixed Effects". This paper explores the potential biases in dynamic models with fixed effects.
+3. **Wooldridge, Jeffrey M. (2001)**: Econometric Analysis of Cross Section and Panel Data. This text offers an in-depth exploration of methods applied to cross-sectional and panel data.
 4. **Hsiao, C. (2003)**: "Analysis of Panel Data". Detailed exploration of panel data analysis techniques.
 5. **Beck, N. (2008)**: "Time-Series Cross-Section Methods". Overview of methods for analyzing time-series cross-section data.
-6. **Beck, Nathaniel. (2008)**: Chapter "Time-Series Cross-Section Methods" in Oxford Handbook of Political Methodology, edited by Janet M Box-Steffensmeier, Henry E Brady, and David Collier, Oxford University Press. Beck discusses advanced methods in time-series cross-section analysis in political methodology.
+6. **Beck, Nathaniel. (2008)**: Chapter "Time-Series Cross-Section Methods" Methods in time-series cross-section.
 7. **Angrist, J. D., & Pischke, J.-S. (2009)**: "Mostly Harmless Econometrics: An Empiricist's Companion". A user-friendly introduction to econometrics and causal inference.
 8. **Wooldridge, J. M. (2010)**: "Econometric Analysis of Cross Section and Panel Data, Second Edition". Comprehensive introduction to econometrics with a focus on panel data analysis.
    
+### Introduction to Causal Inference (Beginner)
+1. **Rubin, D. B. (1978)**: "Bayesian Inference for Causal Effects: The Role of Randomization". A pioneering paper that advanced the Bayesian approach to causal inference, emphasizing the importance of randomization and laying foundational concepts for the Rubin Causal Model.
+
+
+
 
 ### Methodological Foundations (Intermediate)
 6. **Imbens, G. W., & Wooldridge, J. M. (2009)**: "Recent Developments in the Econometrics of Program Evaluation". Insightful overview of econometric methods for program evaluation, integral to causal panel data analysis.
