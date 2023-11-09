@@ -124,7 +124,7 @@ This is a Causal Panel Data Reading List
 3. **Belloni, A., Chernozhukov, V., & Hansen, C. (2014)**: "Inference on Treatment Effects after Selection among High-Dimensional Controls". This paper provides practical guidance on dealing with high-dimensional controls in causal inference.
 4. **Feng, Yingjie. (2020)**: "Causal Inference in Possibly Nonlinear Factor Models." Feng explores causal inference within potentially nonlinear factor models, expanding the toolbox for dealing with complex data structures.
 5. **Tyler, Matthew. (2021)**: "Counterfactual Forecasting: Causal Inference without Simultaneous Controls."  Tyler's manuscript addresses the methodology of causal inference forecasting without the need for simultaneous control variables.
-6.**Wang, Ye. (2021)**: "Causal Inference under Temporal and Spatial Interference."  Wang's work delves into the complexities of causal inference when dealing with interference across both time and space.
+6. **Wang, Ye. (2021)**: "Causal Inference under Temporal and Spatial Interference."  Wang's work delves into the complexities of causal inference when dealing with interference across both time and space.
 
 
 ## Specialized Topics (Advanced)
