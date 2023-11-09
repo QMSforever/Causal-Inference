@@ -1,14 +1,15 @@
 # Causal-Panel-Data-Reading-List
-This is a Causal Panel Data reading list 
+This is a Causal Panel Data Reading List 
 
 * [ Foundational Texts](#foundational-texts)
 * [ Introduction to Causal Inference](#introduction_to_causal_inference)
+* [Introduction to Time-Series Cross-Sectional Data (TSCS)](introduction_to_time_series_cross_sectional_data (TSCS))
 * [ Methodological Foundations (Intermediate)](#methodological_foundations_(Intermediate))
     * [Difference-in-Differences (DID)](#difference_in_differences_(DID))
     * [Twoway Fixed Effects (TWFE)](#twoway_fixed_effects_(TWFE))
     * [The Synthetic Control Method (SCM)](#the_synthetic_control_method_(SCM))
 * [ Methodological Advances](#methodological_advances)
-* [ Applications and Case Studies](#applications-and-case-studies)
+* [Introduction to Causal Panel Data](#introduction_to_causal_panel_data)
 * [ Specialized Topics](#specialized-topics)
 * [ Software and Practical Guides](#software-and-practical-guides)
 
@@ -20,7 +21,6 @@ This is a Causal Panel Data reading list
 4. **Abadie, A and J Gardeazabal. (2003)**: "The Economic Costs of Conflict: A Case Study of the Basque Country." The American Economic Review, 93(1):113–132.
 5. **Hsiao, C. (2003)**: "Analysis of Panel Data". Detailed exploration of panel data analysis techniques.
 6. **Beck, N. (2008)**: "Time-Series Cross-Section Methods". Overview of methods for analyzing time-series cross-section data.
-7. **Beck, Nathaniel. (2008)**: Chapter "Time-Series Cross-Section Methods" Methods in time-series cross-section.
 8. **Angrist, J. D., & Pischke, J.-S. (2009)**: "Mostly Harmless Econometrics: An Empiricist's Companion". A user-friendly introduction to econometrics and causal inference.
 9. **Wooldridge, J. M. (2010)**: "Econometric Analysis of Cross Section and Panel Data, Second Edition". Comprehensive introduction to econometrics with a focus on panel data analysis.
    
@@ -31,6 +31,15 @@ This is a Causal Panel Data reading list
 8. **Hahn, J., Todd, P., & Van der Klaauw, W. (2001)**: "Identification and Estimation of Treatment Effects with a Regression-Discontinuity Design". An influential paper on regression-discontinuity design, a cutting-edge method in causal inference.
 9. **Morgan, S. L., & Winship, C. (2014)**: "Counterfactuals and Causal Inference: Methods and Principles for Social Research". A comprehensive exploration of counterfactual reasoning and its applications in social research, essential for understanding causal inference.
 
+## Introduction to Time-Series Cross-Sectional Data (TSCS)
+
+1. **Beck, Nathaniel and Jonathan N Katz. (1995)**: "What to Do (and Not to Do) with Time-Series Cross-Section Data." 
+2. **Beck, Nathaniel, Jonathan N Katz and Richard Tucker. (1998)**: "Taking Time Seriously: Time-Series-Cross-Section Analysis with a Binary Dependent Variable." 
+4. **Beck, Nathaniel and Jonathan N Katz. (2001)**: "Throwing Out the Baby with the Bath Water: A Comment on Green, Kim, and Yoon." 
+5. **Blackwell, Matthew. (2013)**: "A Framework for Dynamic Causal Inference in Political Science." 
+6. **Beck, Nathaniel and Jonathan N Katz. (2004)**: "Time-Series–Cross-Section Issues: Dynamics, 2004." 
+7. **Beck, Nathaniel. (2008)**: Chapter "Time-Series Cross-Section Methods" Methods in time-series cross-section.
+8. **Beck, Nathaniel and Jonathan N Katz. (2011)**: "Modeling Dynamics in Time-Series–Cross-Section Political Economy Data." 
 
 
 ## Methodological Foundations (Intermediate)
@@ -70,22 +79,22 @@ This is a Causal Panel Data reading list
 
 ### The Synthetic Control Method (SCM)
 
-**Abadie, Alberto, Alexis Diamond, and Jens Hainmueller. (2010)**: "Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California’s Tobacco Control Program." Journal of the American Statistical Association, 105(490):493–505.
-**Abadie, Alberto, Alexis Diamond, and Jens Hainmueller. (2015)**: "Comparative Politics and the Synthetic Control Method." American Journal of Political Science, 59(2):495–510.
+**Abadie, Alberto, Alexis Diamond, and Jens Hainmueller. (2010)**: "Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California’s Tobacco Control Program." 
+**Abadie, Alberto, Alexis Diamond, and Jens Hainmueller. (2015)**: "Comparative Politics and the Synthetic Control Method." 
 **Doudchenko, Nikolay and Guido W Imbens. (2016)**: "Balancing, Regression, Difference-In-Differences and Synthetic Control Methods: A Synthesis."
-**Gobillon, Laurent and Thierry Magnac. (2016)**: "Regional Policy Evaluation: Interactive Fixed Effects and Synthetic Controls." Review of Economics and Statistics, 98(3):535–551.
+**Gobillon, Laurent and Thierry Magnac. (2016)**: "Regional Policy Evaluation: Interactive Fixed Effects and Synthetic Controls." 
 **Hahn, Jinyong and Ruoyao Shi. (2017)**: "Synthetic Control and Inference." Econometrics, 5(4):52.
-**Robbins, Michael W., Jessica Saunders, and Beau Kilmer. (2017)**: "A Framework for Synthetic Control Methods With High-Dimensional, Micro-Level Data: Evaluating a Neighborhood-Specific Crime Intervention." Journal of the American Statistical Association, 112(517):109–126.
-**Xu, Yiqing. (2017)**: "Generalized Synthetic Control Method: Causal Inference with Interactive Fixed Effects Models." Political Analysis, 25(1):57–76.
+**Robbins, Michael W., Jessica Saunders, and Beau Kilmer. (2017)**: "A Framework for Synthetic Control Methods With High-Dimensional, Micro-Level Data: Evaluating a Neighborhood-Specific Crime Intervention." 
+**Xu, Yiqing. (2017)**: "Generalized Synthetic Control Method: Causal Inference with Interactive Fixed Effects Models." 
 **Chernozhukov, Victor, Kaspar Wuthrich, and Yinchu Zhu. (2017)**: "An Exact and Robust Conformal Inference Method for Counterfactual and Synthetic Controls."
-**Firpo, Sergio and Vitor Possebom. (2018)**: "Synthetic Control Method: Inference, Sensitivity Analysis, and Confidence Sets." Journal of Causal Inference, 6(2).
+**Firpo, Sergio and Vitor Possebom. (2018)**: "Synthetic Control Method: Inference, Sensitivity Analysis, and Confidence Sets." 
 **Ben-Michael, Eli, Avi Feller, and Jesse Rothstein. (2018)**: "The Augmented Synthetic Control Method."
 **Cattaneo, Matias D., Yingjie Feng, and Rocio Titiunik. (2019)**: "Prediction Intervals for Synthetic Control Methods."
-**Kim, Sungjin, Clarence Lee, and Sachin Gupta. (2020)**: "Bayesian Synthetic Control Methods." JMR, Journal of Marketing Research, 57(5):831–852.
-**Ferman, B, C Pinto, and V Possebom. (2020)**: "Cherry Picking with Synthetic Controls." Journal of Policy Analysis and Management.
+**Kim, Sungjin, Clarence Lee, and Sachin Gupta. (2020)**: "Bayesian Synthetic Control Methods." 
+**Ferman, B, C Pinto, and V Possebom. (2020)**: "Cherry Picking with Synthetic Controls." 
 **Hollingsworth, Alex and Coady Wing. (2020)**: "Tactics for Design and Inference in Synthetic Control Studies: An Applied Example Using High-Dimensional Data."
-**Abaide, Alberto. (2020)**: "Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects." Journal of Economic Literature.
-**Pang, Xun, Licheng Liu, and Yiqing Xu. (2022)**: "A Bayesian Alternative to Synthetic Control for Comparative Case Studies." Political Analysis, 30(2).
+**Abaide, Alberto. (2020)**: "Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects." 
+**Pang, Xun, Licheng Liu, and Yiqing Xu. (2022)**: "A Bayesian Alternative to Synthetic Control for Comparative Case Studies."
 
 ## Methodological Advances
 ### Advanced Methodological Texts
