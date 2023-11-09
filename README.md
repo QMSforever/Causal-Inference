@@ -62,6 +62,7 @@ This is a Causal Panel Data Reading List
 
 
 ## Methodological Foundations (Intermediate)
+### Methodological Foundations
 
 ### Difference-in-Differences (DID)
 1. **Card, D. and Krueger, A. (1994)**: "Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania." This study employs the DID approach to evaluate the effect of minimum wage increases in New Jersey on employment.
