@@ -99,7 +99,7 @@ This is a Causal Panel Data Reading List
 ### The Synthetic Control Method (SCM)
 #### The Synthetic Control Method
 
-1.**Abadie, A and J Gardeazabal. (2003)**: "The Economic Costs of Conflict: A Case Study of the Basque Country." In this study, Abadie and Gardeazabal introduce the Synthetic Control Method (SCM) in assessing the economic impact of conflict, particularly in the Basque Country.
+1. **Abadie, A and J Gardeazabal. (2003)**: "The Economic Costs of Conflict: A Case Study of the Basque Country." In this study, Abadie and Gardeazabal introduce the Synthetic Control Method (SCM) in assessing the economic impact of conflict, particularly in the Basque Country.
 2. **Abadie, Alberto, Alexis Diamond, and Jens Hainmueller. (2010)**: "Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California’s Tobacco Control Program."
 3. **Abadie, Alberto, Alexis Diamond, and Jens Hainmueller. (2015)**: "Comparative Politics and the Synthetic Control Method."
 4. **Doudchenko, Nikolay and Guido W Imbens. (2016)**: "Balancing, Regression, Difference-In-Differences and Synthetic Control Methods: A Synthesis."
