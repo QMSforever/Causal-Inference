@@ -132,6 +132,7 @@ This is a Causal Panel Data Reading List
 
 
 ## Introduction to Causal Panel Data (Advanced)
+### Introduction to Causal Panel Data 
 1. **Hazlett, Chad and Yiqing Xu. (2018)**: "Trajectory Balancing: A General Reweighting Approach to Causal Inference With Time-Series Cross-Sectional Data." This manuscript introduces trajectory balancing for causal inference in time-series cross-sectional data.
 2. **Blackwell, Matthew and Adam Glynn. (2018)**: "How to Make Causal Inferences with Time-Series Cross-Sectional Data Under Selection on Observables." The authors discuss causal inference methodologies in the context of time-series cross-sectional data.
 3. **Arkhangelsky, D. and Imbens, G. W. (2019)**: "Double-Robust Identification for Causal Panel Data Models". Discusses double-robust methods in panel data.
