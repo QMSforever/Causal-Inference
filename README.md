@@ -2,7 +2,7 @@
 This is a Causal Panel Data Reading List 
 
 * [ Foundational Texts](#foundational-texts)
-* [ Introduction to Causal Inference](#introduction_to_causal_inference)
+* [ Introduction to Causal Inference](#introduction-to-causal-inference)
 * [Introduction to Time-Series Cross-Sectional Data (TSCS)](introduction_to_time_series_cross_sectional_data (TSCS))
 * [ Methodological Foundations (Intermediate)](#methodological_foundations_(Intermediate))
     * [Difference-in-Differences (DID)](#difference_in_differences_(DID))
