@@ -3,10 +3,11 @@ This is a Causal Panel Data reading list
 
 * [ Foundational Texts](#foundational-texts)
 * [ Introduction to Causal Inference](#introduction_to_causal_inference)
-* [ Methodological Advances](#methodological-advances)
+* [ Methodological Foundations (Intermediate)](#methodological_foundations_(Intermediate))
     * [Difference-in-Differences (DID)](#difference_in_differences_(DID))
     * [Twoway Fixed Effects (TWFE)](#twoway_fixed_effects_(TWFE))
     * [The Synthetic Control Method (SCM)](#the_synthetic_control_method_(SCM))
+* [ Methodological Advances](#methodological_advances)
 * [ Applications and Case Studies](#applications-and-case-studies)
 * [ Specialized Topics](#specialized-topics)
 * [ Software and Practical Guides](#software-and-practical-guides)
