@@ -41,7 +41,7 @@ This is a Causal Panel Data Reading List
 
 ## Introduction to Time-Series Cross-Sectional Data (TSCS) (Beginner to Intermediate)
 ### Introduction to Time-Series Cross-Sectional Data
-1.**Deaton, Angus. (1985)**: "Panel Data from Time Series of Cross-Sections." 
+1. **Deaton, Angus. (1985)**: "Panel Data from Time Series of Cross-Sections." 
 2. **Mundlak, Yair. (1978)**: "On the Pooling of Time Series and Cross Section Data". This paper discusses methodologies for combining time series and cross-sectional data.
 3. **Rosenbaum, Paul R and Donald B Rubin. (1983)**: "The Central Role of the Propensity Score in Observational Studies for Causal Effects."
 4. **Beck, Nathaniel and Jonathan N Katz. (1995)**: "What to Do (and Not to Do) with Time-Series Cross-Section Data." 
