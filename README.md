@@ -21,11 +21,10 @@ This is a Causal Panel Data Reading List
 2. **Nickell, Stephen. (1981)**: "Biases in Dynamic Models with Fixed Effects". This paper explores the potential biases in dynamic models with fixed effects.
 3. **Chamberlain, Gary. (1982)**: "Multivariate Regression Models for Panel Data." Chamberlain's paper is a foundational work on the application of multivariate regression models to panel data.
 4. **Wooldridge, Jeffrey M. (2001)**: Econometric Analysis of Cross Section and Panel Data. This text offers an in-depth exploration of methods applied to cross-sectional and panel data.
-5. **Abadie, A and J Gardeazabal. (2003)**: "The Economic Costs of Conflict: A Case Study of the Basque Country." The American Economic Review, 93(1):113–132.
-6. **Hsiao, C. (2003)**: "Analysis of Panel Data". Detailed exploration of panel data analysis techniques.
-7. **Beck, N. (2008)**: "Time-Series Cross-Section Methods". Overview of methods for analyzing time-series cross-section data.
-8. **Angrist, J. D., & Pischke, J.-S. (2009)**: "Mostly Harmless Econometrics: An Empiricist's Companion". A user-friendly introduction to econometrics and causal inference.
-9. **Wooldridge, J. M. (2010)**: "Econometric Analysis of Cross Section and Panel Data, Second Edition". Comprehensive introduction to econometrics with a focus on panel data analysis.
+5. **Hsiao, C. (2003)**: "Analysis of Panel Data". Detailed exploration of panel data analysis techniques. 
+6. **Beck, N. (2008)**: "Time-Series Cross-Section Methods". Overview of methods for analyzing time-series cross-section data.
+7. **Angrist, J. D., & Pischke, J.-S. (2009)**: "Mostly Harmless Econometrics: An Empiricist's Companion". A user-friendly introduction to econometrics and causal inference.
+8. **Wooldridge, J. M. (2010)**: "Econometric Analysis of Cross Section and Panel Data, Second Edition". Comprehensive introduction to econometrics with a focus on panel data analysis.
 
 ## Introduction to Time-Series Cross-Sectional Data (TSCS) (Beginner to Intermediate)
 ### Introduction to Time-Series Cross-Sectional Data
@@ -68,7 +67,7 @@ This is a Causal Panel Data Reading List
 14. **Callaway, Brantly, Andrew Goodman-Bacon, and Pedro HC Sant’Anna. (2021)**: "Difference-in-Differences with a Continuous Treatment." This preprint extends the difference-in-differences framework to settings with continuous treatments.
 15. **Egami, Naoki and Soichiro Yamauchi. (2021)**: "Using Multiple Pre-treatment Periods to Improve Difference-in-Differences and Staggered Adoption Designs." This paper advocates for the use of multiple pre-treatment periods to enhance the design and interpretation of difference-in-differences studies.
 16. **Callaway, Brantly, Andrew Goodman-Bacon, and Pedro H C Sant’Anna. (2021)**: "Difference-in-Differences with a Continuous Treatment." This work extends the difference-in-differences approach to scenarios with a continuous treatment variable.
-17. **Goodman-Bacon, Andrew. (2021)**: "Difference-in-Differences with Variation in Treatment Timing." Journal of Econometrics, 225(2):254–277. Goodman-Bacon analyzes the difference-in-differences methodology in settings where treatment timing varies across observations.
+17. **Goodman-Bacon, Andrew. (2021)**: "Difference-in-Differences with Variation in Treatment Timing." Goodman-Bacon analyzes the difference-in-differences methodology in settings where treatment timing varies across observations.
 18. **Wooldridge, Jeffrey M. (2021)**: "Two-Way Fixed Effects, the Two-Way Mundlak Regression, and Difference-in-Differences Estimators." This paper explores two-way fixed effects and Mundlak regression in the context of difference-in-differences estimators.
 19. **Chen, Yehu, Roman Garnett, Jacob M Montgomery, and Annamaria Prati. (2021)**: "Difference in Differences with Parallel-ish Trends via Joint Gaussian Processes." 
 
@@ -100,25 +99,26 @@ This is a Causal Panel Data Reading List
 ### The Synthetic Control Method (SCM)
 #### The Synthetic Control Method
 
-1. **Abadie, Alberto, Alexis Diamond, and Jens Hainmueller. (2010)**: "Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California’s Tobacco Control Program."
-2. **Abadie, Alberto, Alexis Diamond, and Jens Hainmueller. (2015)**: "Comparative Politics and the Synthetic Control Method."
-3. **Doudchenko, Nikolay and Guido W Imbens. (2016)**: "Balancing, Regression, Difference-In-Differences and Synthetic Control Methods: A Synthesis."
-4. **Gobillon, Laurent and Thierry Magnac. (2016)**: "Regional Policy Evaluation: Interactive Fixed Effects and Synthetic Controls."
-5. **Hahn, Jinyong and Ruoyao Shi. (2017)**: "Synthetic Control and Inference." Econometrics, 5(4):52.
-6. **Robbins, Michael W., Jessica Saunders, and Beau Kilmer. (2017)**: "A Framework for Synthetic Control Methods With High-Dimensional, Micro-Level Data: Evaluating a Neighborhood-Specific Crime Intervention."
-7.  **Xu, Yiqing. (2017)**: "Generalized Synthetic Control Method: Causal Inference with Interactive Fixed Effects Models."
-8.  **Chernozhukov, Victor, Kaspar Wuthrich, and Yinchu Zhu. (2017)**: "An Exact and Robust Conformal Inference Method for Counterfactual and Synthetic Controls."
-9.  **Firpo, Sergio and Vitor Possebom. (2018)**: "Synthetic Control Method: Inference, Sensitivity Analysis, and Confidence Sets."
-10.  **Ben-Michael, Eli, Avi Feller, and Jesse Rothstein. (2018)**: "The Augmented Synthetic Control Method."
-11.  **Amjad, Muhammad, Devavrat Shah, and Dennis Shen. (2018)**: "Robust Synthetic Control." 
-12.  **Cattaneo, Matias D., Yingjie Feng, and Rocio Titiunik. (2019)**: "Prediction Intervals for Synthetic Control Methods."
-13.  **Kim, Sungjin, Clarence Lee, and Sachin Gupta. (2020)**: "Bayesian Synthetic Control Methods."
-14.  **Ferman, B, C Pinto, and V Possebom. (2020)**: "Cherry Picking with Synthetic Controls."
-15.  **Hollingsworth, Alex and Coady Wing. (2020)**: "Tactics for Design and Inference in Synthetic Control Studies: An Applied Example Using High-Dimensional Data."
-16.  **Abaide, Alberto. (2020)**: "Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects."
-17.  **Chernozhukov, Victor, Kaspar Wüthrich, and Yinchu Zhu. (2021)**: "An Exact and Robust Conformal Inference Method for Counterfactual and Synthetic Controls."
-18.  **Ferman, Bruno and Cristine Pinto. (2021)**: "Synthetic Controls with Imperfect Pre-treatment Fit." 
-19.  **Pang, Xun, Licheng Liu, and Yiqing Xu. (2022)**: "A Bayesian Alternative to Synthetic Control for Comparative Case Studies."
+1.**Abadie, A and J Gardeazabal. (2003)**: "The Economic Costs of Conflict: A Case Study of the Basque Country." In this study, Abadie and Gardeazabal introduce the Synthetic Control Method (SCM) in assessing the economic impact of conflict, particularly in the Basque Country.
+2. **Abadie, Alberto, Alexis Diamond, and Jens Hainmueller. (2010)**: "Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California’s Tobacco Control Program."
+3. **Abadie, Alberto, Alexis Diamond, and Jens Hainmueller. (2015)**: "Comparative Politics and the Synthetic Control Method."
+4. **Doudchenko, Nikolay and Guido W Imbens. (2016)**: "Balancing, Regression, Difference-In-Differences and Synthetic Control Methods: A Synthesis."
+5. **Gobillon, Laurent and Thierry Magnac. (2016)**: "Regional Policy Evaluation: Interactive Fixed Effects and Synthetic Controls."
+6. **Hahn, Jinyong and Ruoyao Shi. (2017)**: "Synthetic Control and Inference." Econometrics, 5(4):52.
+7. **Robbins, Michael W., Jessica Saunders, and Beau Kilmer. (2017)**: "A Framework for Synthetic Control Methods With High-Dimensional, Micro-Level Data: Evaluating a Neighborhood-Specific Crime Intervention."
+8.  **Xu, Yiqing. (2017)**: "Generalized Synthetic Control Method: Causal Inference with Interactive Fixed Effects Models."
+9.  **Chernozhukov, Victor, Kaspar Wuthrich, and Yinchu Zhu. (2017)**: "An Exact and Robust Conformal Inference Method for Counterfactual and Synthetic Controls."
+10.  **Firpo, Sergio and Vitor Possebom. (2018)**: "Synthetic Control Method: Inference, Sensitivity Analysis, and Confidence Sets."
+11.  **Ben-Michael, Eli, Avi Feller, and Jesse Rothstein. (2018)**: "The Augmented Synthetic Control Method."
+12.  **Amjad, Muhammad, Devavrat Shah, and Dennis Shen. (2018)**: "Robust Synthetic Control." 
+13.  **Cattaneo, Matias D., Yingjie Feng, and Rocio Titiunik. (2019)**: "Prediction Intervals for Synthetic Control Methods."
+14.  **Kim, Sungjin, Clarence Lee, and Sachin Gupta. (2020)**: "Bayesian Synthetic Control Methods."
+15.  **Ferman, B, C Pinto, and V Possebom. (2020)**: "Cherry Picking with Synthetic Controls."
+16.  **Hollingsworth, Alex and Coady Wing. (2020)**: "Tactics for Design and Inference in Synthetic Control Studies: An Applied Example Using High-Dimensional Data."
+17.  **Abaide, Alberto. (2020)**: "Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects."
+18.  **Chernozhukov, Victor, Kaspar Wüthrich, and Yinchu Zhu. (2021)**: "An Exact and Robust Conformal Inference Method for Counterfactual and Synthetic Controls."
+19.  **Ferman, Bruno and Cristine Pinto. (2021)**: "Synthetic Controls with Imperfect Pre-treatment Fit." 
+20.  **Pang, Xun, Licheng Liu, and Yiqing Xu. (2022)**: "A Bayesian Alternative to Synthetic Control for Comparative Case Studies."
 
 ## Introduction to Causal Inference (Intermediate)
 ### Introduction to Causal Inference
@@ -152,15 +152,15 @@ This is a Causal Panel Data Reading List
 1. **Athey, S., & Imbens, G. W. (2017)**: "The State of Applied Econometrics: Causality and Policy Evaluation". 
 2. **Chernozhukov, V., Hansen, C., & Spindler, M. (2015)**: "Valid Post-Selection and Post-Regularization Inference: An Elementary, General Approach". For readers interested in post-selection inference, crucial for understanding model selection in causal analysis.
 3. **Belloni, A., Chernozhukov, V., & Hansen, C. (2014)**: "Inference on Treatment Effects after Selection among High-Dimensional Controls". This paper provides practical guidance on dealing with high-dimensional controls in causal inference.
-4. **Fernández-Val, Iván and Martin Weidner. (2016)**: "Individual and Time Effects in Nonlinear Panel Models with Large N, T." Journal of Econometrics, 192(1):291–312. The authors examine the estimation of individual and time effects in nonlinear panel models with large dimensions.
-5. **Gobillon, Laurent and Thierry Magnac. (2016)**: "Regional Policy Evaluation: Interactive Fixed Effects and Synthetic Controls." Review of Economics and Statistics, 98(3):535–551. Gobillon and Magnac evaluate regional policies using interactive fixed effects models and synthetic controls.
-6. **Freyberger, Joachim. (2018)**: "Non-parametric Panel Data Models with Interactive Fixed Effects." The Review of Economic Studies, 85(3):1824–1851. Freyberger discusses non-parametric panel data models and their application in econometric analysis.
+4. **Fernández-Val, Iván and Martin Weidner. (2016)**: "Individual and Time Effects in Nonlinear Panel Models with Large N, T." The authors examine the estimation of individual and time effects in nonlinear panel models with large dimensions.
+5. **Gobillon, Laurent and Thierry Magnac. (2016)**: "Regional Policy Evaluation: Interactive Fixed Effects and Synthetic Controls." Gobillon and Magnac evaluate regional policies using interactive fixed effects models and synthetic controls.
+6. **Freyberger, Joachim. (2018)**: "Non-parametric Panel Data Models with Interactive Fixed Effects." Freyberger discusses non-parametric panel data models and their application in econometric analysis.
 7. **Feng, Yingjie. (2020)**: "Causal Inference in Possibly Nonlinear Factor Models." Feng explores causal inference within potentially nonlinear factor models, expanding the toolbox for dealing with complex data structures.
 8. **Abadie, Alberto, Susan Athey, Guido W Imbens, and Jeffrey M Wooldridge. (2020)**: "Sampling-based versus Design-based Uncertainty in Regression Analysis." The authors discuss the differences between sampling-based and design-based approaches to uncertainty in regression analysis, providing guidance on when each approach is appropriate.
 9. **Deaner, Ben. (2021)**: "Proxy Controls and Panel Data." This paper addresses the integration of proxy controls in panel data models for causal analysis.
 10. **Tyler, Matthew. (2021)**: "Counterfactual Forecasting: Causal Inference without Simultaneous Controls."  Tyler's manuscript addresses the methodology of causal inference forecasting without the need for simultaneous control variables.
 11. **Wang, Ye. (2021)**: "Causal Inference under Temporal and Spatial Interference."  Wang's work delves into the complexities of causal inference when dealing with interference across both time and space.
-12. **Abadie, Alberto, Susan Athey, Guido W Imbens, and Jeffrey M Wooldridge. (2023)**: "When Should You Adjust Standard Errors for Clustering?" The Quarterly Journal of Economics, 138(1):1–35. This article addresses the crucial question of when to adjust standard errors for clustering in statistical analysis, offering best practices for researchers.
+12. **Abadie, Alberto, Susan Athey, Guido W Imbens, and Jeffrey M Wooldridge. (2023)**: "When Should You Adjust Standard Errors for Clustering?" This article addresses the crucial question of when to adjust standard errors for clustering in statistical analysis, offering best practices for researchers.
 
 ## Specialized Topics (Advanced)
 ### Specialized Topics 
@@ -178,7 +178,7 @@ This is a Causal Panel Data Reading List
 ### Software and Practical Guides
 1. **Liu, L., Wang, Y., and Xu, Y. (2022)**: "A Practical Guide to Counterfactual Estimators for Causal Inference with Time-Series Cross-Sectional Data". Practical guide for implementing counterfactual estimators.
 2. **Mou, H., Liu, L., and Xu, Y. (2023)**: "Panel Data Visualization in R (panelView) and Stata (panelview)". Tools for visualizing panel data.
-3. **Xu, Yiqing. (2023)**: "Causal Inference with Time-Series Cross-Sectional Data: A Reflection." Available at SSRN 3979613. Xu provides a comprehensive reflection on the challenges of causal inference within the context of time-series cross-sectional data.
+3. **Xu, Yiqing. (2023)**: "Causal Inference with Time-Series Cross-Sectional Data: A Reflection."  Xu provides a comprehensive reflection on the challenges of causal inference within the context of time-series cross-sectional data.
 
 
 
