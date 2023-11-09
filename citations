@@ -1,1 +1,158 @@
 
+@BOOK{Hsiao2022-in,
+  title     = "Analysis of Panel Data",
+  author    = "Hsiao, Cheng",
+  abstract  = "Now in its fourth edition, this comprehensive introduction of
+               fundamental panel data methodologies provides insights on what
+               is most essential in panel literature. A capstone to the
+               forty-year career of a pioneer of panel data analysis, this new
+               edition's primary contribution will be the coverage of
+               advancements in panel data analysis, a statistical method widely
+               used to analyze two or higher-dimensional panel data. The topics
+               discussed in early editions have been reorganized and
+               streamlined to comprehensively introduce panel econometric
+               methodologies useful for identifying causal relationships among
+               variables, supported by interdisciplinary examples and case
+               studies. This book, to be featured in Cambridge's Econometric
+               Society Monographs series, has been the leader in the field
+               since the first edition. It is essential reading for
+               researchers, practitioners and graduate students interested in
+               the analysis of microeconomic behavior.",
+  publisher = "Cambridge University Press",
+  month     =  jul,
+  year      =  2022,
+  language  = "en"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@INBOOK{Beck2008-cg,
+  title     = "{Time‐Series} {Cross‐Section} Methods",
+  author    = "Beck, Nathaniel",
+  abstract  = "Abstract. This article outlines the literature on time-series
+               cross-sectional (TSCS) methods. First, it addresses time-series
+               properties including issues of non",
+  publisher = "Oxford University Press",
+  month     =  aug,
+  year      =  2008,
+  language  = "en"
+}
+
+@BOOK{Angrist2009-ck,
+  title     = "Mostly Harmless Econometrics: An Empiricist's Companion",
+  author    = "Angrist, Joshua D and Pischke, J{\"o}rn-Steffen",
+  abstract  = "From Joshua Angrist, winner of the Nobel Prize in Economics, and
+               J{\"o}rn-Steffen Pischke, an irreverent guide to the essentials
+               of econometricsThe core methods in today's econometric toolkit
+               are linear regression for statistical control, instrumental
+               variables methods for the analysis of natural experiments, and
+               differences-in-differences methods that exploit policy changes.
+               In the modern experimentalist paradigm, these techniques address
+               clear causal questions such as: Do smaller classes increase
+               learning? Should wife batterers be arrested? How much does
+               education raise wages? Mostly Harmless Econometrics shows how
+               the basic tools of applied econometrics allow the data to
+               speak.In addition to econometric essentials, Mostly Harmless
+               Econometrics covers important new
+               extensions---regression-discontinuity designs and quantile
+               regression---as well as how to get standard errors right. Joshua
+               Angrist and J{\"o}rn-Steffen Pischke explain why fancier
+               econometric techniques are typically unnecessary and even
+               dangerous. The applied econometric methods emphasized in this
+               book are easy to use and relevant for many areas of contemporary
+               social science.An irreverent review of econometric essentialsA
+               focus on tools that applied researchers use mostChapters on
+               regression-discontinuity designs, quantile regression, and
+               standard errorsMany empirical examplesA clear and concise
+               resource with wide applications",
+  publisher = "Princeton University Press",
+  month     =  jan,
+  year      =  2009,
+  language  = "en"
+}
+
+@ARTICLE{Li2002-ng,
+  title     = "Econometric analysis of cross section and panel data",
+  author    = "Li, Tong",
+  journal   = "J. Econ. Lit.",
+  publisher = "American Economic Association",
+  volume    =  40,
+  number    =  4,
+  pages     = "1239--1241",
+  year      =  2002
+}
+
+@BOOK{Wooldridge2010-nq,
+  title     = "Econometric Analysis of Cross Section and Panel Data, second
+               edition",
+  author    = "Wooldridge, Jeffrey M",
+  abstract  = "The second edition of a comprehensive state-of-the-art graduate
+               level text on microeconometric methods, substantially revised
+               and updated.The second edition of this acclaimed graduate text
+               provides a unified treatment of two methods used in contemporary
+               econometric research, cross section and data panel methods. By
+               focusing on assumptions that can be given behavioral content,
+               the book maintains an appropriate level of rigor while
+               emphasizing intuitive thinking. The analysis covers both linear
+               and nonlinear models, including models with dynamics and/or
+               individual heterogeneity. In addition to general estimation
+               frameworks (particular methods of moments and maximum
+               likelihood), specific linear and nonlinear methods are covered
+               in detail, including probit and logit models and their
+               multivariate, Tobit models, models for count data, censored and
+               missing data schemes, causal (or treatment) effects, and
+               duration analysis.Econometric Analysis of Cross Section and
+               Panel Data was the first graduate econometrics text to focus on
+               microeconomic data structures, allowing assumptions to be
+               separated into population and sampling assumptions. This second
+               edition has been substantially updated and revised. Improvements
+               include a broader class of models for missing data problems;
+               more detailed treatment of cluster problems, an important topic
+               for empirical researchers; expanded discussion of ``generalized
+               instrumental variables'' (GIV) estimation; new coverage (based
+               on the author's own recent research) of inverse probability
+               weighting; a more complete framework for estimating treatment
+               effects with panel data, and a firmly established link between
+               econometric approaches to nonlinear panel data and the
+               ``generalized estimating equation'' literature popular in
+               statistics and other fields. New attention is given to
+               explaining when particular econometric methods can be applied;
+               the goal is not only to tell readers what does work, but why
+               certain ``obvious'' procedures do not. The numerous included
+               exercises, both theoretical and computer-based, allow the reader
+               to extend methods covered in the text and discover new insights.",
+  publisher = "MIT Press",
+  month     =  oct,
+  year      =  2010,
+  language  = "en"
+}
+
+@ARTICLE{Nickell1981-kg,
+  title     = "Biases in Dynamic Models with Fixed Effects",
+  author    = "Nickell, Stephen",
+  abstract  = "[It is well known from the Monte-Carlo work of Nerlove that
+               using the standard within-group estimator for dynamic models
+               with fixed individual effects generates estimates which are
+               inconsistent as the number of ``individuals'' tends to infinity
+               if the number of time periods is kept fixed. In this paper we
+               present analytical expressions for these inconsistencies for the
+               first order autoregressive case.]",
+  journal   = "Econometrica",
+  publisher = "[Wiley, Econometric Society]",
+  volume    =  49,
+  number    =  6,
+  pages     = "1417--1426",
+  year      =  1981
+}
+
+@ARTICLE{Ashenfelter1978-ze,
+  title     = "Estimating the Effect of Training Programs on Earnings",
+  author    = "Ashenfelter, Orley",
+  journal   = "Rev. Econ. Stat.",
+  publisher = "The MIT Press",
+  volume    =  60,
+  number    =  1,
+  pages     = "47--57",
+  year      =  1978
+}
+
