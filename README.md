@@ -90,6 +90,8 @@ This is a Causal Panel Data Reading List
 
 
 ### Twoway Fixed Effects (TWFE)
+#### Twoway Fixed Effects
+
 1. **Chamberlain, Gary. (1982)**: "Multivariate Regression Models for Panel Data."  Chamberlain presents multivariate regression models tailored for panel data analysis.
 2. **Nickell, Stephen. (1981)**: "Biases in Dynamic Models with Fixed Effects."
 3. **Bai, Jushan. (2009)**: "Panel Data Models with Interactive Fixed Effects."
@@ -111,6 +113,7 @@ This is a Causal Panel Data Reading List
 
 
 ### The Synthetic Control Method (SCM)
+#### The Synthetic Control Method
 
 1. **Abadie, Alberto, Alexis Diamond, and Jens Hainmueller. (2010)**: "Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California’s Tobacco Control Program."
 2. **Abadie, Alberto, Alexis Diamond, and Jens Hainmueller. (2015)**: "Comparative Politics and the Synthetic Control Method."
