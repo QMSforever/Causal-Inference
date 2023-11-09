@@ -1,4 +1,5 @@
 # Causal-Panel-Data-Reading-List
+
 Welcome to the Causal Panel Data Reading List, an essential collection of resources for scholars, students, and policy analysts interested in the intersection of causal inference and panel data analysis. This reading list is curated to guide readers from the foundational concepts to advanced methodological approaches in understanding and implementing causal panel data analysis.
 
 * [ Foundational Texts](#foundational-texts)
