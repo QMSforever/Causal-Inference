@@ -65,6 +65,8 @@ This is a Causal Panel Data Reading List
 ### Methodological Foundations
 
 ### Difference-in-Differences (DID)
+#### Difference-in-Differences 
+
 1. **Card, D. and Krueger, A. (1994)**: "Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania." This study employs the DID approach to evaluate the effect of minimum wage increases in New Jersey on employment.
 2.  **Bertrand, Marianne, Esther Duflo, and Sendhil Mullainathan. (2004)**: "How Much Should We Trust Differences-in-Differences Estimates?"
 3. **Abadie, Alberto. (2005)**: "Semiparametric Difference-in-Differences Estimators."  Abadie introduces semiparametric estimators within the context of the difference-in-differences methodology in this influential paper.
