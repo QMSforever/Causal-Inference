@@ -143,6 +143,8 @@ This is a Causal Panel Data Reading List
 
 
 ## Methodological Advances (Advanced)
+### Methodological Advances 
+
 ### Advanced Methodological Texts
 1. **Athey, S., & Imbens, G. W. (2017)**: "The State of Applied Econometrics: Causality and Policy Evaluation". 
 2. **Chernozhukov, V., Hansen, C., & Spindler, M. (2015)**: "Valid Post-Selection and Post-Regularization Inference: An Elementary, General Approach". For readers interested in post-selection inference, crucial for understanding model selection in causal analysis.
@@ -158,6 +160,8 @@ This is a Causal Panel Data Reading List
 12. **Abadie, Alberto, Susan Athey, Guido W Imbens, and Jeffrey M Wooldridge. (2023)**: "When Should You Adjust Standard Errors for Clustering?" The Quarterly Journal of Economics, 138(1):1–35. This article addresses the crucial question of when to adjust standard errors for clustering in statistical analysis, offering best practices for researchers.
 
 ## Specialized Topics (Advanced)
+### Specialized Topics 
+
 ### Marginal structural models (MSMs)
 1. **Robins, J M, M A Hernán, and B Brumback. (2000)**: "Marginal Structural Models and Causal Inference in Epidemiology."
 2. **Blackwell, Matthew. (2013)**: "A Framework for Dynamic Causal Inference in Political Science." Blackwell provides a framework for assessing causality in dynamic political contexts.
