@@ -53,74 +53,74 @@ Vol. 14:331-352.
 ### Difference-in-Differences (DID)
 #### Difference-in-Differences 
 
-1. **Card, D. and Krueger, A. (1994)**: "Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania." This study employs the DID approach to evaluate the effect of minimum wage increases in New Jersey on employment.
-2.  **Bertrand, Marianne, Esther Duflo, and Sendhil Mullainathan. (2004)**: "How Much Should We Trust Differences-in-Differences Estimates?"
-3. **Abadie, Alberto. (2005)**: "Semiparametric Difference-in-Differences Estimators."  Abadie introduces semiparametric estimators within the context of the difference-in-differences methodology in this influential paper.
-4. **Athey, S. and Imbens, G. W. (2006)**: "Identification and Inference in Nonlinear Difference-in-Differences Models". Covers nonlinear models in difference-in-differences settings.Ltd.
-5. **Bonhomme, Stéphane and Ulrich Sauder. (2011)**: "Recovering Distributions in Difference-in-Differences Models: A Comparison of Selective and Comprehensive Schooling."
-6. **Athey, Susan and Guido Imbens. (2018)**: "Design-based Analysis in Difference-in-Differences Settings with Staggered Adoption." Athey and Imbens present a design-based analytical approach tailored for difference-in-differences studies with staggered adoption timelines, enhancing the robustness of causal estimates.
-7. **Strezhnev, Anton. (2018)**: "Semiparametric Weighting Estimators for Multi-Period Difference-in-Differences Designs. Strezhnev proposes new semiparametric weighting estimators tailored for multi-period difference-in-differences designs in this paper.
-8. **Ding, Peng and Fan Li. (2019)**: "A Bracketing Relationship between Difference-in-Differences and Lagged-Dependent-Variable Adjustment." Ding and Li discuss the relationship between difference-in-differences and adjustments for lagged dependent variables, providing a framework for understanding their connection.
-9. **Callaway, Brantly and Pedro H C Sant’Anna. (2020)**: "Difference-in-Differences with Multiple Time Periods." This article discusses the application of the difference-in-differences methodology over multiple time periods, offering new insights into its implementation.
-10. **Coleman, Thomas. (2020)**: "John Snow and Cholera: Revisiting Difference-in-Differences and Randomized Trials in Research."  This literature exploring the application of difference-in-differences and randomized trials in research.
-11. **Keele, Luke. (2020)**: "Differences-in-Differences: Neither Natural nor an Experiment." 
-12. **Sant’Anna, Pedro HC and Jun Zhao. (2020)**: "Doubly Robust Difference-in-Differences Estimators." This paper focuses on developing doubly robust estimators to improve the reliability of difference-in-differences analysis.
-13. **Arkhangelsky, Dmitry, Susan Athey, David A Hirshberg, Guido W Imbens, and Stefan Wager. (2021)**: "Synthetic Difference-in-Differences."
-14. **Callaway, Brantly, Andrew Goodman-Bacon, and Pedro HC Sant’Anna. (2021)**: "Difference-in-Differences with a Continuous Treatment." This preprint extends the difference-in-differences framework to settings with continuous treatments.
-15. **Egami, Naoki and Soichiro Yamauchi. (2021)**: "Using Multiple Pre-treatment Periods to Improve Difference-in-Differences and Staggered Adoption Designs." This paper advocates for the use of multiple pre-treatment periods to enhance the design and interpretation of difference-in-differences studies.
-16. **Callaway, Brantly, Andrew Goodman-Bacon, and Pedro H C Sant’Anna. (2021)**: "Difference-in-Differences with a Continuous Treatment." This work extends the difference-in-differences approach to scenarios with a continuous treatment variable.
-17. **Goodman-Bacon, Andrew. (2021)**: "Difference-in-Differences with Variation in Treatment Timing." Goodman-Bacon analyzes the difference-in-differences methodology in settings where treatment timing varies across observations.
-18. **Wooldridge, Jeffrey M. (2021)**: "Two-Way Fixed Effects, the Two-Way Mundlak Regression, and Difference-in-Differences Estimators." This paper explores two-way fixed effects and Mundlak regression in the context of difference-in-differences estimators.
-19. **Chen, Yehu, Roman Garnett, Jacob M Montgomery, and Annamaria Prati. (2021)**: "Difference in Differences with Parallel-ish Trends via Joint Gaussian Processes." 
+1. **Card, D. and Krueger, A. (1994)**: "Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania." American Economic Review, 90 (5): 1397-1420. This study employs the DID approach to evaluate the effect of minimum wage increases in New Jersey on employment.
+2.  **Bertrand, Marianne, Esther Duflo, and Sendhil Mullainathan. (2004)**: "How Much Should We Trust Differences-in-Differences Estimates?" The Quarterly Journal of Economics, 119(1):249–275, 2004.
+3. **Abadie, Alberto. (2005)**: "Semiparametric Difference-in-Differences Estimators." Review of Economic Studies 72(1):1–19. Abadie introduces semiparametric estimators within the context of the difference-in-differences methodology in this influential paper.
+4. **Athey, S. and Imbens, G. W. (2006)**: "Identification and Inference in Nonlinear Difference-in-Differences Models". Econometrica, 74(2):431–497, 2006. Covers nonlinear models in difference-in-differences settings.Ltd.
+5. **Bonhomme, Stéphane and Ulrich Sauder. (2011)**: "Recovering Distributions in Difference-in-Differences Models: A Comparison of Selective and Comprehensive Schooling." Review of Economics and Statistics, 93(2):479–494.
+6. **Strezhnev, Anton. (2018)**: "Semiparametric Weighting Estimators for Multi-Period Difference-in-Differences Designs. Annual Conference of the American Political Science Association. Strezhnev proposes new semiparametric weighting estimators tailored for multi-period difference-in-differences designs in this paper. 
+7. **Ding, Peng and Fan Li. (2019)**: "A Bracketing Relationship between Difference-in-Differences and Lagged-Dependent-Variable Adjustment." Political Analysis, 27(4):605–615. Ding and Li discuss the relationship between difference-in-differences and adjustments for lagged dependent variables, providing a framework for understanding their connection.
+8. **Callaway, Brantly and Pedro H C Sant’Anna. (2020)**: "Difference-in-Differences with Multiple Time Periods." Journal of Econometrics, 2020. This article discusses the application of the difference-in-differences methodology over multiple time periods, offering new insights into its implementation.
+9. **Coleman, Thomas. (2020)**: "John Snow and Cholera: Revisiting Difference-in-Differences and Randomized Trials in Research." Mimeo, University of Chicago.  This literature exploring the application of difference-in-differences and randomized trials in research.
+10. **Keele, Luke. (2020)**: "Differences-in-Differences: Neither Natural nor an Experiment." In The SAGE Handbook of Research Methods in Political Science and International Relations, ed. Luigi Curini and Robert Franzese. 
+11. **Sant’Anna, Pedro HC and Jun Zhao. (2020)**: "Doubly Robust Difference-in-Differences Estimators." Journal of Econometrics, 219(1):101–122. This paper focuses on developing doubly robust estimators to improve the reliability of difference-in-differences analysis.
+12. **Arkhangelsky, Dmitry, Susan Athey, David A Hirshberg, Guido W Imbens, and Stefan Wager. (2021)**: "Synthetic Difference-in-Differences." American Economic Review, 111(12):4088–4118, 2021. 
+13. **Callaway, Brantly, Andrew Goodman-Bacon, and Pedro HC Sant’Anna. (2021)**: "Difference-in-Differences with a Continuous Treatment." arXiv preprint arXiv:2107.02637. This preprint extends the difference-in-differences framework to settings with continuous treatments.
+14. **Goodman-Bacon, Andrew. (2021)**: "Difference-in-Differences with Variation in Treatment Timing." Journal of Econometrics, 225(2):254–277. Goodman-Bacon analyzes the difference-in-differences methodology in settings where treatment timing varies across observations.
+15. **Wooldridge, Jeffrey M. (2021)**: "Two-Way Fixed Effects, the Two-Way Mundlak Regression, and Difference-in-Differences Estimators." Mimeo. This paper explores two-way fixed effects and Mundlak regression in the context of difference-in-differences estimators.
+16. **Chen, Yehu, Roman Garnett, Jacob M Montgomery, and Annamaria Prati. (2021)**: "Difference in Differences with Parallel-ish Trends via Joint Gaussian Processes."
+17. **Athey, Susan and Guido Imbens. (2022)**: "Design-based Analysis in Difference-in-Differences Settings with Staggered Adoption." Journal of Econometrics Volume 226, Issue 1, Pages 62-79. Athey and Imbens present a design-based analytical approach tailored for difference-in-differences studies with staggered adoption timelines, enhancing the robustness of causal estimates.
+18. **Egami, Naoki and Soichiro Yamauchi. (2023)**: "Using Multiple Pre-treatment Periods to Improve Difference-in-Differences and Staggered Adoption Designs." Political Analysis. Cambridge University Press, 31(2), pp. 195–212. This paper advocates for the use of multiple pre-treatment periods to enhance the design and interpretation of difference-in-differences studies.
+
+
 
 
 
 ### Twoway Fixed Effects (TWFE)
 #### Twoway Fixed Effects
 
-1. **Chamberlain, Gary. (1982)**: "Multivariate Regression Models for Panel Data."  Chamberlain presents multivariate regression models tailored for panel data analysis.
-2. **Nickell, Stephen. (1981)**: "Biases in Dynamic Models with Fixed Effects."
-3. **Bai, Jushan. (2009)**: "Panel Data Models with Interactive Fixed Effects."
+1. **Chamberlain, Gary. (1982)**: "Multivariate Regression Models for Panel Data." Journal of Econometrics 18(1):5–46.  Chamberlain presents multivariate regression models tailored for panel data analysis.
+2. **Nickell, Stephen. (1981)**: "Biases in Dynamic Models with Fixed Effects." Econometrica, Vol. 49, No. 6, 1417–1426.
+3. **Bai, Jushan. (2009)**: "Panel Data Models with Interactive Fixed Effects." Econometrica, Vol. 77, No. 4, 1229-1279.
 4. **Vogelsang, Timothy J. (2012)**: "Heteroskedasticity, Autocorrelation, and Spatial Correlation Robust Inference in Linear Panel Models with Fixed-Effects." Journal of Econometrics, 166(2):303–319. Vogelsang explores robust inference techniques for linear panel models in the presence of heteroskedasticity, autocorrelation, and spatial correlation.
-5. **Gobillon, Laurent and Thierry Magnac. (2016)**: "Regional Policy Evaluation: Interactive Fixed Effects and Synthetic Controls."
-6. **de Chaisemartin, Clément and Xavier D’Haultfœuille. (2017**): "Fuzzy Differences-in-Differences."
+5. **Gobillon, Laurent and Thierry Magnac. (2016)**: "Regional Policy Evaluation: Interactive Fixed Effects and Synthetic Controls." Review of Economics and Statistics, 98(3):535–551.
+6. **de Chaisemartin, Clément and Xavier D’Haultfœuille. (2017**): "Fuzzy Differences-in-Differences." The Review of Economic Studies, 85(2):999–1028.
 7. **Arkhangelsky, Dmitry and Guido Imbens. (2018)**: "The Role of the Propensity Score in Fixed Effect Models." Technical report, National Bureau of Economic Research. This report by Arkhangelsky and Imbens discusses the integration of propensity score methods within fixed effect models to improve causal inference in observational studies.
-8. **Sun, Liyang and Sarah Abraham. (2018)**: "Estimating Dynamic Treatment Effects in Event Studies with Heterogeneous Treatment Effects."
-9. **Imai, Kosuke and In Song Kim. (2019)**: "When Should We Use Unit Fixed Effects Regression Models for Causal Inference with Longitudinal Data?"
-10. **de Chaisemartin, Clément and Xavier D’Haultfœuille. (2020)**: "Two-way Fixed Effects Estimators with Heterogeneous Treatment Effects."
-11. **Hazlett, Chad and Leonard Wainstein. (2020)**: "Understanding, Choosing, and Unifying Multi-level and Fixed Effect Approaches."
-12. **Sant’Anna, Pedro HC and Jun Zhao. (2020)**: "Doubly Robust Difference-in-Differences Estimators."
-13. **De Chaisemartin, Clément and Xavier d’Haultfœuille. (2020)**: "Two-way Fixed Effects Estimators with Heterogeneous Treatment Effects." 
-14. **Callaway, Brantly and Sonia Karami. (2021)**: "Treatment Effects in Interactive Fixed Effects Models."
-15. **Wooldridge, Jeffrey M. (2021)**: "Two-Way Fixed Effects, the Two-Way Mundlak Regression, and Difference-in-Differences Estimators."
-16. **Arkhangelsky, Dmitry, Guido W Imbens, Lihua Lei, and Xiaoman Luo. (2021)**: "Double-Robust Two-Way-Fixed-Effects Regression For Panel Data."
-17. **Wooldridge, Jeffrey M. (2021)**: "Two-Way Fixed Effects, the Two-Way Mundlak Regression, and Difference-in-Differences Estimators." This paper explores two-way fixed effects and Mundlak regression in the context of difference-in-differences estimators.
-18. **De Chaisemartin, Clément and Xavier D’haultfœuille. (2022)**: "Two-way Fixed Effects and Differences-in-Differences with Heterogeneous Treatment Effects: A Survey." 
+8. **Sun, Liyang and Sarah Abraham. (2018)**: "Estimating Dynamic Treatment Effects in Event Studies with Heterogeneous Treatment Effects." Journal of Econometrics
+Volume 225, Issue 2, 175-199
+9. **Imai, Kosuke and In Song Kim. (2019)**: "When Should We Use Unit Fixed Effects Regression Models for Causal Inference with Longitudinal Data?" American Journal of Political Science, 63(2):467–490.
+10. **de Chaisemartin, Clément and Xavier D’Haultfœuille. (2020)**: "Two-way Fixed Effects Estimators with Heterogeneous Treatment Effects." The American Economic Review, 110(9):2964–2996.
+11. **Hazlett, Chad and Leonard Wainstein. (2020)**: "Understanding, Choosing, and Unifying Multi-level and Fixed Effect Approaches." Political Analysis. Cambridge University Press, 30(1), pp. 46–65.
+12. **Sant’Anna, Pedro HC and Jun Zhao. (2020)**: "Doubly Robust Difference-in-Differences Estimators." Journal of Econometrics, 219(1):101–122.
+13. **De Chaisemartin, Clément and Xavier d’Haultfœuille. (2020)**: "Two-way Fixed Effects Estimators with Heterogeneous Treatment Effects." American Economic Review, 110(9):2964–2996. 
+14. **Callaway, Brantly and Sonia Karami. (2021)**: "Treatment Effects in Interactive Fixed Effects Models." Mimeo, University of Georgia.
+15. **Arkhangelsky, Dmitry, Guido W Imbens, Lihua Lei, and Xiaoman Luo. (2021)**: "Double-Robust Two-Way-Fixed-Effects Regression For Panel Data." arXiv:2107.13737. 
+16. **Wooldridge, Jeffrey M. (2021)**: "Two-Way Fixed Effects, the Two-Way Mundlak Regression, and Difference-in-Differences Estimators." Mimeo. This paper explores two-way fixed effects and Mundlak regression in the context of difference-in-differences estimators.
+17. **De Chaisemartin, Clément and Xavier D’haultfœuille. (2022)**: "Two-way Fixed Effects and Differences-in-Differences with Heterogeneous Treatment Effects: A Survey." The Econometrics Journal, Volume 26, Issue 3, 1-30.
 
 
 ### The Synthetic Control Method (SCM)
 #### The Synthetic Control Method
 
-1. **Abadie, A and J Gardeazabal. (2003)**: "The Economic Costs of Conflict: A Case Study of the Basque Country." In this study, Abadie and Gardeazabal introduce the Synthetic Control Method (SCM) in assessing the economic impact of conflict, particularly in the Basque Country.
-2. **Abadie, Alberto, Alexis Diamond, and Jens Hainmueller. (2010)**: "Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California’s Tobacco Control Program."
-3. **Abadie, Alberto, Alexis Diamond, and Jens Hainmueller. (2015)**: "Comparative Politics and the Synthetic Control Method."
-4. **Doudchenko, Nikolay and Guido W Imbens. (2016)**: "Balancing, Regression, Difference-In-Differences and Synthetic Control Methods: A Synthesis."
-5. **Gobillon, Laurent and Thierry Magnac. (2016)**: "Regional Policy Evaluation: Interactive Fixed Effects and Synthetic Controls."
+1. **Abadie, A and J Gardeazabal. (2003)**: "The Economic Costs of Conflict: A Case Study of the Basque Country." The American Economic Review, 93(1):113–132. In this study, Abadie and Gardeazabal introduce the Synthetic Control Method (SCM) in assessing the economic impact of conflict, particularly in the Basque Country.
+2. **Abadie, Alberto, Alexis Diamond, and Jens Hainmueller. (2010)**: "Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California’s Tobacco Control Program." Journal of the American Statistical Association 105(490):493–505.
+3. **Abadie, Alberto, Alexis Diamond, and Jens Hainmueller. (2015)**: "Comparative Politics and the Synthetic Control Method." American Journal of Political Science 59(2):495–510.
+4. **Doudchenko, Nikolay and Guido W Imbens. (2016)**: "Balancing, Regression, Difference-In-Differences and Synthetic Control Methods: A Synthesis." arXiv:1610.07748.
+5. **Gobillon, Laurent and Thierry Magnac. (2016)**: "Regional Policy Evaluation: Interactive Fixed Effects and Synthetic Controls." Review of Economics and Statistics, 98(3):535–551.
 6. **Hahn, Jinyong and Ruoyao Shi. (2017)**: "Synthetic Control and Inference." Econometrics, 5(4):52.
-7. **Robbins, Michael W., Jessica Saunders, and Beau Kilmer. (2017)**: "A Framework for Synthetic Control Methods With High-Dimensional, Micro-Level Data: Evaluating a Neighborhood-Specific Crime Intervention."
-8.  **Xu, Yiqing. (2017)**: "Generalized Synthetic Control Method: Causal Inference with Interactive Fixed Effects Models."
-9.  **Chernozhukov, Victor, Kaspar Wuthrich, and Yinchu Zhu. (2017)**: "An Exact and Robust Conformal Inference Method for Counterfactual and Synthetic Controls."
-10.  **Firpo, Sergio and Vitor Possebom. (2018)**: "Synthetic Control Method: Inference, Sensitivity Analysis, and Confidence Sets."
+7. **Robbins, Michael W., Jessica Saunders, and Beau Kilmer. (2017)**: "A Framework for Synthetic Control Methods With High-Dimensional, Micro-Level Data: Evaluating a Neighborhood-Specific Crime Intervention." Journal of the American Statistical Association, 112(517):109–126.
+8.  **Xu, Yiqing. (2017)**: "Generalized Synthetic Control Method: Causal Inference with Interactive Fixed Effects Models." Political Analysis, 25(1):57–76.
+9.  **Chernozhukov, Victor, Kaspar Wuthrich, and Yinchu Zhu. (2017)**: "An Exact and Robust Conformal Inference Method for Counterfactual and Synthetic Controls." arXiv:1712.09089. 
+10.  **Firpo, Sergio and Vitor Possebom. (2018)**: "Synthetic Control Method: Inference, Sensitivity Analysis, and Confidence Sets." Journal of Causal Inference, 6(2).
 11.  **Ben-Michael, Eli, Avi Feller, and Jesse Rothstein. (2018)**: "The Augmented Synthetic Control Method."
-12.  **Amjad, Muhammad, Devavrat Shah, and Dennis Shen. (2018)**: "Robust Synthetic Control." 
-13.  **Cattaneo, Matias D., Yingjie Feng, and Rocio Titiunik. (2019)**: "Prediction Intervals for Synthetic Control Methods."
-14.  **Kim, Sungjin, Clarence Lee, and Sachin Gupta. (2020)**: "Bayesian Synthetic Control Methods."
-15.  **Ferman, B, C Pinto, and V Possebom. (2020)**: "Cherry Picking with Synthetic Controls."
-16.  **Hollingsworth, Alex and Coady Wing. (2020)**: "Tactics for Design and Inference in Synthetic Control Studies: An Applied Example Using High-Dimensional Data."
-17.  **Abaide, Alberto. (2020)**: "Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects."
-18.  **Chernozhukov, Victor, Kaspar Wüthrich, and Yinchu Zhu. (2021)**: "An Exact and Robust Conformal Inference Method for Counterfactual and Synthetic Controls."
-19.  **Ferman, Bruno and Cristine Pinto. (2021)**: "Synthetic Controls with Imperfect Pre-treatment Fit." 
-20.  **Pang, Xun, Licheng Liu, and Yiqing Xu. (2022)**: "A Bayesian Alternative to Synthetic Control for Comparative Case Studies."
+12.  **Amjad, Muhammad, Devavrat Shah, and Dennis Shen. (2018)**: "Robust Synthetic Control." The Journal of Machine Learning Research, 19(1):802–852.
+13.  **Cattaneo, Matias D., Yingjie Feng, and Rocio Titiunik. (2019)**: "Prediction Intervals for Synthetic Control Methods."	arXiv:1912.07120. 
+14.  **Kim, Sungjin, Clarence Lee, and Sachin Gupta. (2020)**: "Bayesian Synthetic Control Methods." JMR, Journal of marketing research 57(5):831–852.
+15.  **Ferman, B, C Pinto, and V Possebom. (2020)**: "Cherry Picking with Synthetic Controls." Journal of Policy Analysis and Management.
+16.  **Hollingsworth, Alex and Coady Wing. (2020)**: "Tactics for Design and Inference in Synthetic Control Studies: An Applied Example Using High-Dimensional Data." Available at SSRN: https://ssrn.com/abstract=3592088
+17.  **Abaide, Alberto. (2020)**: "Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects." Journal of Economic Literature, 59 (2): 391-425.
+18.  **Ferman, Bruno and Cristine Pinto. (2021)**: "Synthetic Controls with Imperfect Pre-treatment Fit." Quantitative Economics, 12(4):1197–1221.  
+19.  **Pang, Xun, Licheng Liu, and Yiqing Xu. (2022)**: "A Bayesian Alternative to Synthetic Control for Comparative Case Studies." Political Analysis, 30(2).
 
 ## Introduction to Causal Inference (Intermediate)
 ### Introduction to Causal Inference
