@@ -18,31 +18,32 @@ Welcome to the Causal Panel Data Reading List, an essential collection of resour
 
 ## Foundational Texts (Beginner)
 ### Foundational Texts 
-1. **Ashenfelter, O. (1978)**: "Estimating the Effect of Training Programs on Earnings." Ashenfelter's paper is recognized for its early use of the Difference in Differences (DID) approach to estimate the impact of job training programs on earnings.
-2. **Nickell, Stephen. (1981)**: "Biases in Dynamic Models with Fixed Effects". This paper explores the potential biases in dynamic models with fixed effects.
-3. **Chamberlain, Gary. (1982)**: "Multivariate Regression Models for Panel Data." Chamberlain's paper is a foundational work on the application of multivariate regression models to panel data.
+1. **Ashenfelter, O. (1978)**: "Estimating the Effect of Training Programs on Earnings." The Review of Economics and Statistics, Vol. 60, No. 1 (Feb., 1978), pp. 47-57. Ashenfelter's paper is recognized for its early use of the Difference in Differences (DID) approach to estimate the impact of job training programs on earnings.
+2. **Nickell, Stephen. (1981)**: "Biases in Dynamic Models with Fixed Effects". Econometrica: journal of the Econometric Society 49(6):1417–1426. This paper explores the potential biases in dynamic models with fixed effects.
+3. **Chamberlain, Gary. (1982)**: "Multivariate Regression Models for Panel Data." Journal of Econometrics, 18(1):5–46. Chamberlain's paper is a foundational work on the application of multivariate regression models to panel data.
 4. **Wooldridge, J. M. (2010)**: "Econometric Analysis of Cross Section and Panel Data, Second Edition". Comprehensive introduction to econometrics with a focus on panel data analysis.
-5. **Hsiao, C. (2003)**: "Analysis of Panel Data". Detailed exploration of panel data analysis techniques. 
-6. **Beck, N. (2008)**: "Time-Series Cross-Section Methods". Overview of methods for analyzing time-series cross-section data.
+5. **Hsiao, C. (2003)**: "Analysis of Panel Data". Cambridge University Press. Detailed exploration of panel data analysis techniques. 
+6. **Beck, N. (2008)**: "Time-Series Cross-Section Methods". In Oxford Handbook of Political Methodology, edited by Janet M Box-Steffensmeier, Henry E Brady, and David Collier. Overview of methods for analyzing time-series cross-section data.
 7. **Angrist, J. D., & Pischke, J.-S. (2009)**: "Mostly Harmless Econometrics: An Empiricist's Companion". A user-friendly introduction to econometrics and causal inference.
    
 
 ## Introduction to Time-Series Cross-Sectional Data (TSCS) (Beginner to Intermediate)
 ### Introduction to Time-Series Cross-Sectional Data
 
-1. **Deaton, Angus. (1985)**: "Panel Data from Time Series of Cross-Sections." 
-2. **Mundlak, Yair. (1978)**: "On the Pooling of Time Series and Cross Section Data". This paper discusses methodologies for combining time series and cross-sectional data.
+1. **Deaton, Angus. (1985)**: "Panel Data from Time Series of Cross-Sections." Journal of Econometrics Volume 30, Issues 1–2, October–November 1985, Pages 109-126.  
+2. **Mundlak, Yair. (1978)**: "On the Pooling of Time Series and Cross Section Data". Econometrica: journal of the Econometric Society 46(1):69–85. This paper discusses methodologies for combining time series and cross-sectional data.
 3. **Rosenbaum, Paul R and Donald B Rubin. (1983)**: "The Central Role of the Propensity Score in Observational Studies for Causal Effects."
-4. **Beck, Nathaniel and Jonathan N Katz. (1995)**: "What to Do (and Not to Do) with Time-Series Cross-Section Data." 
-5. **Beck, Nathaniel, Jonathan N Katz and Richard Tucker. (1998)**: "Taking Time Seriously: Time-Series-Cross-Section Analysis with a Binary Dependent Variable." 
-6. **Beck, Nathaniel and Jonathan N Katz. (2001)**: "Throwing Out the Baby with the Bath Water: A Comment on Green, Kim, and Yoon."
-7. **Alvarez, Javier and Manuel Arellano. (2003)**: "The Time Series and Cross-Section Asymptotics of Dynamic Panel Data Estimators."
-8. **Blackwell, Matthew. (2013)**: "A Framework for Dynamic Causal Inference in Political Science." 
-9. **Beck, Nathaniel and Jonathan N Katz. (2004)**: "Time-Series–Cross-Section Issues: Dynamics, 2004." 
-10. **Beck, Nathaniel. (2008)**: Chapter "Time-Series Cross-Section Methods" Methods in time-series cross-section.
-11. **Beck, Nathaniel and Jonathan N Katz. (2011)**: "Modeling Dynamics in Time-Series–Cross-Section Political Economy Data."
-12. **Chernozhukov, Victor, Ivan Fernandez-Val, Jinyong Hahn, and Whitney Newey. (2013)**: "Average and Quantile Effects in Nonseparable Panel Models."
-13. **Brodersen, Kay H., Fabian Gallusser, Jim Koehler, Nicolas Remy, and Steven L. Scott. (2015)**: "Inferring Causal Impact Using Bayesian Structural Time-Series Models."
+4. **Beck, Nathaniel and Jonathan N Katz. (1995)**: "What to Do (and Not to Do) with Time-Series Cross-Section Data." Biometrika 70(1):41–55. 
+5. **Beck, Nathaniel, Jonathan N Katz and Richard Tucker. (1998)**: "Taking Time Seriously: Time-Series-Cross-Section Analysis with a Binary Dependent Variable." American Journal of Political Science 42(4):1260–1288.
+6. **Beck, Nathaniel and Jonathan N Katz. (2001)**: "Throwing Out the Baby with the Bath Water: A Comment on Green, Kim, and Yoon." International Organization, 55(2): 487–495.
+7. **Alvarez, Javier and Manuel Arellano. (2003)**: "The Time Series and Cross-Section Asymptotics of Dynamic Panel Data Estimators." Econometrica, 71(4):1121–1159, 2003.
+8. **Blackwell, Matthew. (2013)**: "A Framework for Dynamic Causal Inference in Political Science." American journal of political science 57(2):504–520.
+9. **Beck, Nathaniel and Jonathan N Katz. (2004)**: "Time-Series–Cross-Section Issues: Dynamics, 2004."  In Annual Meeting of the Society for Political Methodology.
+10. **Beck, Nathaniel. (2008)**: Chapter "Time-Series Cross-Section Methods" Methods in time-series cross-section. In Oxford Handbook of Political Methodology, edited by Janet M Box-Steffensmeier, Henry E Brady, and David Collier.
+11. **Beck, Nathaniel and Jonathan N Katz. (2011)**: "Modeling Dynamics in Time-Series–Cross-Section Political Economy Data." Annual Review of Political Science
+Vol. 14:331-352.
+12. **Chernozhukov, Victor, Ivan Fernandez-Val, Jinyong Hahn, and Whitney Newey. (2013)**: "Average and Quantile Effects in Nonseparable Panel Models."  Econometrica, 81(2):535–580.
+13. **Brodersen, Kay H., Fabian Gallusser, Jim Koehler, Nicolas Remy, and Steven L. Scott. (2015)**: "Inferring Causal Impact Using Bayesian Structural Time-Series Models." The Annals of Applied Statistics, pages 247–274, 2015.
 14. **Fernández-Val, Iván and Martin Weidner. (2018)**: "Fixed Effects Estimation of Large-T Panel Data Models." Annual Review of Economics, 10:109–138. This review covers fixed effects estimation techniques for panel data models with a large number of time periods.
 
 
