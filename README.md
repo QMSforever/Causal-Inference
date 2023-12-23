@@ -162,7 +162,7 @@ Welcome to the Causal Panel Data Reading List, an essential collection of resour
 ## Methodological Advances (Advanced)
 ### Methodological Advances 
 
-### Advanced Methodological Texts
+
 1. **Vogelsang, Timothy (2012)**: "[Heteroskedasticity, Autocorrelation, and Spatial Correlation Robust Inference in Linear Panel Models with Fixed-Effects](https://doi.org/10.1016/j.jeconom.2011.10.001)." *Journal of Econometrics, Vol. 166, No. 2, 2012, pp. 303–319.*
 2. **Chernozhukov, V., Fernández-Val, I., Hahn, J. and Newey, W. (2013)**: "[Average and Quantile Effects in Nonseparable Panel Models](https://doi.org/10.3982/ECTA8405)." *Econometrica, 81: 535-580.*
 3. **Belloni, A., Chernozhukov, V., & Hansen, C. (2014)**: "[Inference on Treatment Effects after Selection among High-Dimensional Controls](https://academic.oup.com/restud/article/81/2/608/1523757)." *The Review of Economic Studies, Volume 81, Issue 2, 608–650.*
