@@ -25,7 +25,7 @@ Welcome to the Causal Panel Data Reading List, an essential collection of resour
 5. **Beck, N. (2008)**: "[Time-Series Cross-Section Methods](https://academic.oup.com/edited-volume/28340/chapter/215157430)." In *Oxford Handbook of Political Methodology*, edited by Janet M Box-Steffensmeier, Henry E Brady, and David Collier. Overview of methods for analyzing time-series cross-section data.
 6. **Angrist, J. D., & Pischke, J.-S. (2009)**: "[Mostly Harmless Econometrics: An Empiricist's Companion](https://press.princeton.edu/books/paperback/9780691120355/mostly-harmless-econometrics)." *Princeton University Press.* A user-friendly introduction to econometrics and causal inference.
 7. **Wooldridge, J. M. (2010)**: "[Econometric Analysis of Cross Section and Panel Data, Second Edition](https://mitpress.mit.edu/books/econometric-analysis-cross-section-and-panel-data-second-edition)." *MIT Press.* Comprehensive introduction to econometrics with a focus on panel data analysis.
-8. **Badi H. Baltagi**. "[Econometric Analysis of Panel Data](https://doi.org/10.1007/978-3-030-53953-5)" *Springer Texts in Business and Economics.* 
+8. **Badi H. Baltagi (2021)**. "[Econometric Analysis of Panel Data](https://doi.org/10.1007/978-3-030-53953-5)" *Springer Texts in Business and Economics.* This book offers a comprehensive introduction to panel data econometrics.
 
 
    
@@ -120,6 +120,8 @@ Welcome to the Causal Panel Data Reading List, an essential collection of resour
 16. **Abadie, Alberto. (2020)**: "[Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects](https://www.aeaweb.org/articles?id=10.1257/jel.20191450)." *Journal of Economic Literature, 59 (2): 391-425.*
 17. **Ferman, Bruno and Cristine Pinto. (2021)**: "[Synthetic Controls with Imperfect Pre-treatment Fit](https://doi.org/10.3982/QE1596)." *Quantitative Economics, 12(4):1197–1221.*
 18. **Pang, Xun, Licheng Liu, and Yiqing Xu. (2022)**: "[A Bayesian Alternative to Synthetic Control for Comparative Case Studies](https://doi.org/10.1017/pan.2021.22)." *Political Analysis, 30(2).*
+19. **Jann Spiess, Guido Imbens, Amar Venugopal (2023)**. "[Double and Single Descent in Causal Inference with an Application to High-Dimensional Synthetic Control](https://doi.org/10.48550/arXiv.2305.00700)." *arXivpreprint arXiv:2305.00700.*
+
 
 
 ## Introduction to Causal Inference (Intermediate)
@@ -131,6 +133,8 @@ Welcome to the Causal Panel Data Reading List, an essential collection of resour
 5. **Morgan, S. L., & Winship, C. (2014)**: "[Counterfactuals and Causal Inference: Methods and Principles for Social Research](https://www.cambridge.org/core/books/counterfactuals-and-causal-inference/5CC81E6DF63C5E5A8B88F79D45E1D1B7)." *Cambridge University Press.* A comprehensive exploration of counterfactual reasoning and its applications in social research, essential for understanding causal inference.
 6. **Aronow, Peter M and Cyrus Samii. (2016)**: "[Does Regression Produce Representative Estimates of Causal Effects?](https://www.jstor.org/stable/24583062)." *American Journal of Political Science, 60(1), 250–267.* The authors examine the assumptions under which regression methods yield unbiased causal estimates.
 7. **Doudchenko, Nikolay and Guido W Imbens. (2016)**: "[Balancing, Regression, Difference-in-Differences and Synthetic Control Methods: A Synthesis](https://arxiv.org/abs/1610.07748)." *arXiv:1610.07748.* Doudchenko and Imbens synthesize various methods used for causal inference, including balancing and synthetic controls.
+8. **Lihua Lei, Emmanuel J. Candès**. "[Conformal Inference of Counterfactuals and Individual Treatment Effects](https://doi.org/10.48550/arXiv.2006.06138)." *arXiv preprint arXiv:2006.06138.*
+
 
 
 
