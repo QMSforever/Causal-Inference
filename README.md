@@ -25,7 +25,7 @@ Welcome to the Causal Panel Data Reading List, an essential collection of resour
 5. **Beck, N. (2008)**: "[Time-Series Cross-Section Methods](https://academic.oup.com/edited-volume/28340/chapter/215157430)." In *Oxford Handbook of Political Methodology*, edited by Janet M Box-Steffensmeier, Henry E Brady, and David Collier. Overview of methods for analyzing time-series cross-section data.
 6. **Angrist, J. D., & Pischke, J.-S. (2009)**: "[Mostly Harmless Econometrics: An Empiricist's Companion](https://press.princeton.edu/books/paperback/9780691120355/mostly-harmless-econometrics)." *Princeton University Press.* A user-friendly introduction to econometrics and causal inference.
 7. **Wooldridge, J. M. (2010)**: "[Econometric Analysis of Cross Section and Panel Data, Second Edition](https://mitpress.mit.edu/books/econometric-analysis-cross-section-and-panel-data-second-edition)." *MIT Press.* Comprehensive introduction to econometrics with a focus on panel data analysis.
-8. **Badi H. Baltagi**. "Econometric Analysis of Panel Data." *Springer Texts in Business and Economics.* [DOI: 10.1007/978-3-030-53953-5](https://doi.org/10.1007/978-3-030-53953-5). Springer Cham.
+8. **Badi H. Baltagi**. "[Econometric Analysis of Panel Data](https://doi.org/10.1007/978-3-030-53953-5)" *Springer Texts in Business and Economics.* 
 
 
    
