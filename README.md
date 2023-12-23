@@ -59,7 +59,8 @@ Welcome to the Causal Panel Data Reading List, an essential collection of resour
 3. **Abadie, Alberto. (2005)**: "[Semiparametric Difference-in-Differences Estimators](https://www.jstor.org/stable/3700681)." *Review of Economic Studies 72(1):1–19.*
 4. **Athey, S. and Imbens, G. W. (2006)**: "[Identification and Inference in Nonlinear Difference-in-Differences Models](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0262.2006.00668.x)." *Econometrica, 74(2):431–497.*
 5. **Bonhomme, Stéphane and Ulrich Sauder. (2011)**: "[Recovering Distributions in Difference-in-Differences Models: A Comparison of Selective and Comprehensive Schooling](https://www.jstor.org/stable/23015949)." *Review of Economics and Statistics, 93(2):479–494.*
-6. **Strezhnev, Anton. (2018)**: "Semiparametric Weighting Estimators for Multi-Period Difference-in-Differences Designs." [Annual Conference of the American Political Science Association](https://static1.squarespace.com/static/5931baca440243906ef65ca3/t/5b807c5d0ebbe8b9b8c75878/1535147102290/generalized_did.pdf).
+6. **Sofer, Tamar et al. (2016)**. "[On negative outcome control of unobserved confounding as a generalization of difference-in-differences](https://doi.org/10.1214/16-STS558)." *Statistical Science: A Review Journal of the Institute of Mathematical Statistics, Vol. 31, No. 3, pp. 348-361.*
+**Strezhnev, Anton. (2018)**: "Semiparametric Weighting Estimators for Multi-Period Difference-in-Differences Designs." [Annual Conference of the American Political Science Association](https://static1.squarespace.com/static/5931baca440243906ef65ca3/t/5b807c5d0ebbe8b9b8c75878/1535147102290/generalized_did.pdf).
 7. **Ding, Peng and Fan Li. (2019)**: "[A Bracketing Relationship between Difference-in-Differences and Lagged-Dependent-Variable Adjustment](https://www.cambridge.org/core/journals/political-analysis/article/bracketing-relationship-between-differenceindifferences-and-laggeddependentvariable-adjustment/2FDDA72EBC5979561F1D0414329F003E)." *Political Analysis, 27(4):605–615.*
 8. **Callaway, Brantly and Pedro H C Sant’Anna. (2020)**: "[Difference-in-Differences with Multiple Time Periods](https://www.sciencedirect.com/science/article/pii/S0304407620303948)." *Journal of Econometrics.*
 9. **Coleman, Thomas. (2020)**: "John Snow and Cholera: Revisiting Difference-in-Differences and Randomized Trials in Research." [Mimeo, University of Chicago](https://www.hilerun.org/econ/papers/snow/SSM_DiD.pdf).
@@ -119,8 +120,9 @@ Welcome to the Causal Panel Data Reading List, an essential collection of resour
 15. **Hollingsworth, Alex and Coady Wing. (2020)**: "[Tactics for Design and Inference in Synthetic Control Studies: An Applied Example Using High-Dimensional Data](http://dx.doi.org/10.2139/ssrn.3592088)." *Available at SSRN.*
 16. **Abadie, Alberto. (2020)**: "[Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects](https://www.aeaweb.org/articles?id=10.1257/jel.20191450)." *Journal of Economic Literature, 59 (2): 391-425.*
 17. **Ferman, Bruno and Cristine Pinto. (2021)**: "[Synthetic Controls with Imperfect Pre-treatment Fit](https://doi.org/10.3982/QE1596)." *Quantitative Economics, 12(4):1197–1221.*
-18. **Pang, Xun, Licheng Liu, and Yiqing Xu. (2022)**: "[A Bayesian Alternative to Synthetic Control for Comparative Case Studies](https://doi.org/10.1017/pan.2021.22)." *Political Analysis, 30(2).*
-19. **Jann Spiess, Guido Imbens, Amar Venugopal (2023)**. "[Double and Single Descent in Causal Inference with an Application to High-Dimensional Synthetic Control](https://doi.org/10.48550/arXiv.2305.00700)." *arXivpreprint arXiv:2305.00700.*
+18. **Cattaneo, Matias D., Yingjie Feng & Rocio Titiunik (2021)**: "[Prediction Intervals for Synthetic Control Methods](https://doi.org/10.1080/01621459.2021.1979561)." *Journal of the American Statistical Association, 116:536, 1865-1880.* 
+19. **Pang, Xun, Licheng Liu, and Yiqing Xu. (2022)**: "[A Bayesian Alternative to Synthetic Control for Comparative Case Studies](https://doi.org/10.1017/pan.2021.22)." *Political Analysis, 30(2).*
+20. **Jann Spiess, Guido Imbens, Amar Venugopal (2023)**. "[Double and Single Descent in Causal Inference with an Application to High-Dimensional Synthetic Control](https://doi.org/10.48550/arXiv.2305.00700)." *arXivpreprint arXiv:2305.00700.*
 
 
 
@@ -133,7 +135,8 @@ Welcome to the Causal Panel Data Reading List, an essential collection of resour
 5. **Morgan, S. L., & Winship, C. (2014)**: "[Counterfactuals and Causal Inference: Methods and Principles for Social Research](https://www.cambridge.org/core/books/counterfactuals-and-causal-inference/5CC81E6DF63C5E5A8B88F79D45E1D1B7)." *Cambridge University Press.* A comprehensive exploration of counterfactual reasoning and its applications in social research, essential for understanding causal inference.
 6. **Aronow, Peter M and Cyrus Samii. (2016)**: "[Does Regression Produce Representative Estimates of Causal Effects?](https://www.jstor.org/stable/24583062)." *American Journal of Political Science, 60(1), 250–267.* The authors examine the assumptions under which regression methods yield unbiased causal estimates.
 7. **Doudchenko, Nikolay and Guido W Imbens. (2016)**: "[Balancing, Regression, Difference-in-Differences and Synthetic Control Methods: A Synthesis](https://arxiv.org/abs/1610.07748)." *arXiv:1610.07748.* Doudchenko and Imbens synthesize various methods used for causal inference, including balancing and synthetic controls.
-8. **Lihua Lei, Emmanuel J. Candès**. "[Conformal Inference of Counterfactuals and Individual Treatment Effects](https://doi.org/10.48550/arXiv.2006.06138)." *arXiv preprint arXiv:2006.06138.*
+8.**Shi, X., Miao, W., Nelson, J. C., & Tchetgen, E. J. T. (2020)**. "[Multiply robust causal inference with double-negative control adjustment for categorical unmeasured confounding](https://doi.org/10.1111/rssb.12361)." *Journal of the Royal Statistical Society. Series B, Statistical Methodology, 82(2), 521–540.*
+9. **Lihua Lei, Emmanuel J. Candès (2020)**. "[Conformal Inference of Counterfactuals and Individual Treatment Effects](https://doi.org/10.48550/arXiv.2006.06138)." *arXiv preprint arXiv:2006.06138.*
 
 
 
@@ -156,17 +159,20 @@ Welcome to the Causal Panel Data Reading List, an essential collection of resour
 ### Methodological Advances 
 
 ### Advanced Methodological Texts
-1. **Belloni, A., Chernozhukov, V., & Hansen, C. (2014)**: "[Inference on Treatment Effects after Selection among High-Dimensional Controls](https://academic.oup.com/restud/article/81/2/608/1523757)." *The Review of Economic Studies, Volume 81, Issue 2, 608–650.*
-2. **Chernozhukov, V., Hansen, C., & Spindler, M. (2015)**: "[Valid Post-Selection and Post-Regularization Inference: An Elementary, General Approach](https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-012315-015826)." *Annual Review of Economics 2015 7:1, 649-688.*
-3. **Fernández-Val, Iván and Martin Weidner. (2016)**: "[Individual and Time Effects in Nonlinear Panel Models with Large N, T](https://www.sciencedirect.com/science/article/pii/S0304407615002997)." *Journal of Econometrics, 192(1):291–312, 2016.*
-4. **Gobillon, Laurent and Thierry Magnac. (2016)**: "[Regional Policy Evaluation: Interactive Fixed Effects and Synthetic Controls](https://doi.org/10.1162/REST_a_00537)." *Review of Economics and Statistics, 98(3):535–551, 2016.*
-5. **Athey, S., & Imbens, G. W. (2017)**: "[The State of Applied Econometrics: Causality and Policy Evaluation](https://www.aeaweb.org/articles?id=10.1257/jep.31.2.3)." *Journal of Economic Perspectives, 31 (2): 3-32.*
-6. **Freyberger, Joachim. (2018)**: "[Non-parametric Panel Data Models with Interactive Fixed Effects](https://www.jstor.org/stable/26543950)." *The Review of Economic Studies, 85(3):1824–1851.*
-7. **Feng, Yingjie. (2020)**: "[Causal Inference in Possibly Nonlinear Factor Models](https://doi.org/10.48550/arXiv.2008.13651)." *arXiv:2008.13651.*
-8. **Abadie, Alberto, Susan Athey, Guido W Imbens, and Jeffrey M Wooldridge. (2020)**: "[Sampling-based versus Design-based Uncertainty in Regression Analysis](https://doi.org/10.3982/ECTA12675)." *Econometrica, 88: 265-296.*
-9. **Deaner, Ben. (2021)**: "[Proxy Controls and Panel Data](https://doi.org/10.48550/arXiv.1810.00283)." *arXiv preprint arXiv:1810.00283.*
-10. **Wang, Ye. (2021)**: "[Causal Inference under Temporal and Spatial Interference](https://doi.org/10.48550/arXiv.2106.15074)." *Mimeo, New York University.*
-11. **Abadie, Alberto, Susan Athey, Guido W Imbens, and Jeffrey M Wooldridge. (2023)**: "[When Should You Adjust Standard Errors for Clustering?](https://doi.org/10.1093/qje/qjac038)" *The Quarterly Journal of Economics, 138(1):1–35.*
+1. **Vogelsang, Timothy (2012)**: "[Heteroskedasticity, Autocorrelation, and Spatial Correlation Robust Inference in Linear Panel Models with Fixed-Effects](https://doi.org/10.1016/j.jeconom.2011.10.001)." *Journal of Econometrics, Vol. 166, No. 2, 2012, pp. 303–319.*
+2. **Chernozhukov, V., Fernández-Val, I., Hahn, J. and Newey, W. (2013)**: "[Average and Quantile Effects in Nonseparable Panel Models](https://doi.org/10.3982/ECTA8405)." *Econometrica, 81: 535-580.*
+3. **Belloni, A., Chernozhukov, V., & Hansen, C. (2014)**: "[Inference on Treatment Effects after Selection among High-Dimensional Controls](https://academic.oup.com/restud/article/81/2/608/1523757)." *The Review of Economic Studies, Volume 81, Issue 2, 608–650.*
+4. **Chernozhukov, V., Hansen, C., & Spindler, M. (2015)**: "[Valid Post-Selection and Post-Regularization Inference: An Elementary, General Approach](https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-012315-015826)." *Annual Review of Economics 2015 7:1, 649-688.*
+5. **Fernández-Val, Iván and Martin Weidner. (2016)**: "[Individual and Time Effects in Nonlinear Panel Models with Large N, T](https://www.sciencedirect.com/science/article/pii/S0304407615002997)." *Journal of Econometrics, 192(1):291–312, 2016.*
+6. **Gobillon, Laurent and Thierry Magnac. (2016)**: "[Regional Policy Evaluation: Interactive Fixed Effects and Synthetic Controls](https://doi.org/10.1162/REST_a_00537)." *Review of Economics and Statistics, 98(3):535–551, 2016.*
+7. **Chernozhukov, Victor, Denis Chetverikov, Mert Demirer, Esther Duflo, Christian Hansen, and Whitney Newey (2017)**: "[Double/Debiased/Neyman Machine Learning of Treatment Effects](https://doi.org/10.1257/aer.p20171038)." *American Economic Review, 107 (5): 261-65.* 
+8. **Athey, S., & Imbens, G. W. (2017)**: "[The State of Applied Econometrics: Causality and Policy Evaluation](https://www.aeaweb.org/articles?id=10.1257/jep.31.2.3)." *Journal of Economic Perspectives, 31 (2): 3-32.*
+9. **Freyberger, Joachim. (2018)**: "[Non-parametric Panel Data Models with Interactive Fixed Effects](https://www.jstor.org/stable/26543950)." *The Review of Economic Studies, 85(3):1824–1851.*
+10. **Feng, Yingjie. (2020)**: "[Causal Inference in Possibly Nonlinear Factor Models](https://doi.org/10.48550/arXiv.2008.13651)." *arXiv:2008.13651.*
+11. **Abadie, Alberto, Susan Athey, Guido W Imbens, and Jeffrey M Wooldridge. (2020)**: "[Sampling-based versus Design-based Uncertainty in Regression Analysis](https://doi.org/10.3982/ECTA12675)." *Econometrica, 88: 265-296.*
+12. **Deaner, Ben. (2021)**: "[Proxy Controls and Panel Data](https://doi.org/10.48550/arXiv.1810.00283)." *arXiv preprint arXiv:1810.00283.*
+13. **Wang, Ye. (2021)**: "[Causal Inference under Temporal and Spatial Interference](https://doi.org/10.48550/arXiv.2106.15074)." *Mimeo, New York University.*
+14. **Abadie, Alberto, Susan Athey, Guido W Imbens, and Jeffrey M Wooldridge. (2023)**: "[When Should You Adjust Standard Errors for Clustering?](https://doi.org/10.1093/qje/qjac038)" *The Quarterly Journal of Economics, 138(1):1–35.*
 
 
 ## Specialized Topics (Advanced)
