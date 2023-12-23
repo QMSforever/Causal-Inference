@@ -182,6 +182,7 @@ Welcome to the Causal Panel Data Reading List, an essential collection of resour
 
 
 ## Specialized Topics (Advanced)
+### Specialized Topics
 
 ### Marginal structural models (MSMs)
 1. **Robins, J M, M A Hernán, and B Brumback. (2000)**: "[Marginal Structural Models and Causal Inference in Epidemiology](https://journals.lww.com/epidem/fulltext/2000/09000/marginal_structural_models_and_causal_inference_in.11.aspx)." *Epidemiology 11(5):550–560.*
