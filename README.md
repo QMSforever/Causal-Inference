@@ -100,25 +100,25 @@ Welcome to the Causal Panel Data Reading List, an essential collection of resour
 ### The Synthetic Control Method (SCM)
 #### The Synthetic Control Method
 
-1. **Abadie, A and J Gardeazabal. (2003)**: "The Economic Costs of Conflict: A Case Study of the Basque Country." The American Economic Review, 93(1):113–132. In this study, Abadie and Gardeazabal introduce the Synthetic Control Method (SCM) in assessing the economic impact of conflict, particularly in the Basque Country.
-2. **Abadie, Alberto, Alexis Diamond, and Jens Hainmueller. (2010)**: "Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California’s Tobacco Control Program." Journal of the American Statistical Association 105(490):493–505.
-3. **Abadie, Alberto, Alexis Diamond, and Jens Hainmueller. (2015)**: "Comparative Politics and the Synthetic Control Method." American Journal of Political Science 59(2):495–510.
-4. **Doudchenko, Nikolay and Guido W Imbens. (2016)**: "Balancing, Regression, Difference-In-Differences and Synthetic Control Methods: A Synthesis." arXiv:1610.07748.
-5. **Gobillon, Laurent and Thierry Magnac. (2016)**: "Regional Policy Evaluation: Interactive Fixed Effects and Synthetic Controls." Review of Economics and Statistics, 98(3):535–551.
-6. **Hahn, Jinyong and Ruoyao Shi. (2017)**: "Synthetic Control and Inference." Econometrics, 5(4):52.
-7. **Robbins, Michael W., Jessica Saunders, and Beau Kilmer. (2017)**: "A Framework for Synthetic Control Methods With High-Dimensional, Micro-Level Data: Evaluating a Neighborhood-Specific Crime Intervention." Journal of the American Statistical Association, 112(517):109–126.
-8.  **Xu, Yiqing. (2017)**: "Generalized Synthetic Control Method: Causal Inference with Interactive Fixed Effects Models." Political Analysis, 25(1):57–76.
-9.  **Chernozhukov, Victor, Kaspar Wuthrich, and Yinchu Zhu. (2017)**: "An Exact and Robust Conformal Inference Method for Counterfactual and Synthetic Controls." arXiv:1712.09089. 
-10.  **Firpo, Sergio and Vitor Possebom. (2018)**: "Synthetic Control Method: Inference, Sensitivity Analysis, and Confidence Sets." Journal of Causal Inference, 6(2).
-11.  **Ben-Michael, Eli, Avi Feller, and Jesse Rothstein. (2018)**: "The Augmented Synthetic Control Method."
-12.  **Amjad, Muhammad, Devavrat Shah, and Dennis Shen. (2018)**: "Robust Synthetic Control." The Journal of Machine Learning Research, 19(1):802–852.
-13.  **Cattaneo, Matias D., Yingjie Feng, and Rocio Titiunik. (2019)**: "Prediction Intervals for Synthetic Control Methods."	arXiv:1912.07120. 
-14.  **Kim, Sungjin, Clarence Lee, and Sachin Gupta. (2020)**: "Bayesian Synthetic Control Methods." JMR, Journal of marketing research 57(5):831–852.
-15.  **Ferman, B, C Pinto, and V Possebom. (2020)**: "Cherry Picking with Synthetic Controls." Journal of Policy Analysis and Management.
-16.  **Hollingsworth, Alex and Coady Wing. (2020)**: "Tactics for Design and Inference in Synthetic Control Studies: An Applied Example Using High-Dimensional Data." Available at SSRN: https://ssrn.com/abstract=3592088
-17.  **Abaide, Alberto. (2020)**: "Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects." Journal of Economic Literature, 59 (2): 391-425.
-18.  **Ferman, Bruno and Cristine Pinto. (2021)**: "Synthetic Controls with Imperfect Pre-treatment Fit." Quantitative Economics, 12(4):1197–1221.  
-19.  **Pang, Xun, Licheng Liu, and Yiqing Xu. (2022)**: "A Bayesian Alternative to Synthetic Control for Comparative Case Studies." Political Analysis, 30(2).
+1. **Abadie, A and J Gardeazabal. (2003)**: "[The Economic Costs of Conflict: A Case Study of the Basque Country](https://www.aeaweb.org/articles?id=10.1257/000282803321455188)." *The American Economic Review, 93(1):113–132.*
+2. **Abadie, Alberto, Alexis Diamond, and Jens Hainmueller. (2010)**: "[Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California’s Tobacco Control Program](https://www.tandfonline.com/doi/abs/10.1198/jasa.2009.ap08746)." *Journal of the American Statistical Association 105(490):493–505.*
+3. **Abadie, Alberto, Alexis Diamond, and Jens Hainmueller. (2015)**: "[Comparative Politics and the Synthetic Control Method](https://doi.org/10.1111/ajps.12116)." *American Journal of Political Science 59(2):495–510.*
+4. **Doudchenko, Nikolay and Guido W Imbens. (2016)**: "Balancing, Regression, Difference-In-Differences and Synthetic Control Methods: A Synthesis." [arXiv:1610.07748](https://arxiv.org/abs/1610.07748).
+5. **Hahn, Jinyong and Ruoyao Shi. (2017)**: "[Synthetic Control and Inference](https://www.mdpi.com/2225-1146/5/4/52)." *Econometrics, 5(4):52.*
+6. **Robbins, Michael W., Jessica Saunders, and Beau Kilmer. (2017)**: "[A Framework for Synthetic Control Methods With High-Dimensional, Micro-Level Data: Evaluating a Neighborhood-Specific Crime Intervention](https://www.tandfonline.com/doi/full/10.1080/01621459.2016.1213634)." *Journal of the American Statistical Association, 112(517):109–126.*
+7. **Xu, Yiqing. (2017)**: "[Generalized Synthetic Control Method: Causal Inference with Interactive Fixed Effects Models](https://www.cambridge.org/core/journals/political-analysis/article/generalized-synthetic-control-method-causal-inference-with-interactive-fixed-effects-models/B63A8BD7C239DD4141C67DA10CD0E4F3)." *Political Analysis, 25(1):57–76.*
+8. **Chernozhukov, Victor, Kaspar Wuthrich, and Yinchu Zhu. (2017)**: "An Exact and Robust Conformal Inference Method for Counterfactual and Synthetic Controls." [arXiv:1712.09089](https://arxiv.org/abs/1712.09089).
+9. **Firpo, Sergio and Vitor Possebom. (2018)**: "[Synthetic Control Method: Inference, Sensitivity Analysis, and Confidence Sets](https://www.degruyter.com/document/doi/10.1515/jci-2016-0026/html?lang=en)." *Journal of Causal Inference, 6(2).*
+10. **Ben-Michael, Eli, Avi Feller, and Jesse Rothstein. (2018)**: "[The Augmented Synthetic Control Method](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1929245)." *Journal of the American Statistical Association, 116:536, 1789-1803.*
+11. **Amjad, Muhammad, Devavrat Shah, and Dennis Shen. (2018)**: "[Robust Synthetic Control](https://www.jmlr.org/papers/volume19/17-777/17-777.pdf)." *The Journal of Machine Learning Research, 19(1):802–852.*
+12. **Cattaneo, Matias D., Yingjie Feng, and Rocio Titiunik. (2019)**: "Prediction Intervals for Synthetic Control Methods." [arXiv:1912.07120](https://arxiv.org/abs/1912.07120).
+13. **Kim, Sungjin, Clarence Lee, and Sachin Gupta. (2020)**: "[Bayesian Synthetic Control Methods](http://dx.doi.org/10.2139/ssrn.3382359)." *JMR, Journal of Marketing Research 57(5):831–852.*
+14. **Ferman, B, C Pinto, and V Possebom. (2020)**: "[Cherry Picking with Synthetic Controls](https://doi.org/10.1002/pam.22206)." *Journal of Policy Analysis and Management.*
+15. **Hollingsworth, Alex and Coady Wing. (2020)**: "Tactics for Design and Inference in Synthetic Control Studies: An Applied Example Using High-Dimensional Data." [Available at SSRN](http://dx.doi.org/10.2139/ssrn.3592088).
+16. **Abadie, Alberto. (2020)**: "[Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects](https://www.aeaweb.org/articles?id=10.1257/jel.20191450)." *Journal of Economic Literature, 59 (2): 391-425.*
+17. **Ferman, Bruno and Cristine Pinto. (2021)**: "[Synthetic Controls with Imperfect Pre-treatment Fit](https://doi.org/10.3982/QE1596)." *Quantitative Economics, 12(4):1197–1221.*
+18. **Pang, Xun, Licheng Liu, and Yiqing Xu. (2022)**: "[A Bayesian Alternative to Synthetic Control for Comparative Case Studies](https://doi.org/10.1017/pan.2021.22)." *Political Analysis, 30(2).*
+
 
 ## Introduction to Causal Inference (Intermediate)
 ### Introduction to Causal Inference
