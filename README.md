@@ -37,10 +37,10 @@ Welcome to the Causal Panel Data Reading List, an essential collection of resour
 5. **Beck, Nathaniel, Jonathan N Katz and Richard Tucker. (1998)**: "[Taking Time Seriously: Time-Series-Cross-Section Analysis with a Binary Dependent Variable](https://www.jstor.org/stable/2991857)." *American Journal of Political Science 42(4):1260–1288.*
 6. **Beck, Nathaniel and Jonathan N Katz. (2001)**: "[Throwing Out the Baby with the Bath Water: A Comment on Green, Kim, and Yoon](https://www.cambridge.org/core/journals/international-organization/article/throwing-out-the-baby-with-the-bath-water-a-comment-on-green-kim-and-yoon/BFF75977E9709147B32F773C52A5FA25)." *International Organization, 55(2): 487–495.*
 7. **Alvarez, Javier and Manuel Arellano. (2003)**: "[The Time Series and Cross-Section Asymptotics of Dynamic Panel Data Estimators](https://www.jstor.org/stable/1555492)." *Econometrica, 71(4):1121–1159.*
-8. **Blackwell, Matthew. (2013)**: "[A Framework for Dynamic Causal Inference in Political Science](https://www.jstor.org/stable/23496611)." *American journal of political science 57(2):504–520.*
-9. **Beck, Nathaniel. (2008)**: "Time-Series Cross-Section Methods" Methods in time-series cross-section. In [Oxford Handbook of Political Methodology](https://academic.oup.com/edited-volume/28340), edited by Janet M Box-Steffensmeier, Henry E Brady, and David Collier.
-10. **Beck, Nathaniel and Jonathan N Katz. (2011)**: "[Modeling Dynamics in Time-Series–Cross-Section Political Economy Data](https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-071510-103222)." *Annual Review of Political Science Vol. 14:331-352.*
-11. **Chernozhukov, Victor, Ivan Fernandez-Val, Jinyong Hahn, and Whitney Newey. (2013)**: "[Average and Quantile Effects in Nonseparable Panel Models](https://www.jstor.org/stable/23524292)." *Econometrica, 81(2):535–580.*
+8. **Beck, Nathaniel. (2008)**: "Time-Series Cross-Section Methods" Methods in time-series cross-section. In [Oxford Handbook of Political Methodology](https://academic.oup.com/edited-volume/28340), edited by Janet M Box-Steffensmeier, Henry E Brady, and David Collier.
+9. **Beck, Nathaniel and Jonathan N Katz. (2011)**: "[Modeling Dynamics in Time-Series–Cross-Section Political Economy Data](https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-071510-103222)." *Annual Review of Political Science Vol. 14:331-352.*
+10. **Chernozhukov, Victor, Ivan Fernandez-Val, Jinyong Hahn, and Whitney Newey. (2013)**: "[Average and Quantile Effects in Nonseparable Panel Models](https://www.jstor.org/stable/23524292)." *Econometrica, 81(2):535–580.*
+11. **Blackwell, Matthew. (2013)**: "[A Framework for Dynamic Causal Inference in Political Science](https://www.jstor.org/stable/23496611)." *American journal of political science 57(2):504–520.*
 12. **Brodersen, Kay H., Fabian Gallusser, Jim Koehler, Nicolas Remy, and Steven L. Scott. (2015)**: "[Inferring Causal Impact Using Bayesian Structural Time-Series Models](https://arxiv.org/abs/1506.00356)." *The Annals of Applied Statistics, pages 247–274.*
 13. **Fernández-Val, Iván and Martin Weidner. (2018)**: "[Fixed Effects Estimation of Large-T Panel Data Models](https://www.annualreviews.org/doi/10.1146/annurev-economics-080217-053542)." *Annual Review of Economics, 10:109–138.* This review covers fixed effects estimation techniques for large panel data models.
 
@@ -150,11 +150,11 @@ Welcome to the Causal Panel Data Reading List, an essential collection of resour
 ### Methodological Advances 
 
 ### Advanced Methodological Texts
-1. **Athey, S., & Imbens, G. W. (2017)**: "[The State of Applied Econometrics: Causality and Policy Evaluation](https://www.aeaweb.org/articles?id=10.1257/jep.31.2.3)." *Journal of Economic Perspectives, 31 (2): 3-32.*
+1. **Belloni, A., Chernozhukov, V., & Hansen, C. (2014)**: "[Inference on Treatment Effects after Selection among High-Dimensional Controls](https://academic.oup.com/restud/article/81/2/608/1523757)." *The Review of Economic Studies, Volume 81, Issue 2, 608–650.*
 2. **Chernozhukov, V., Hansen, C., & Spindler, M. (2015)**: "[Valid Post-Selection and Post-Regularization Inference: An Elementary, General Approach](https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-012315-015826)." *Annual Review of Economics 2015 7:1, 649-688.*
-3. **Belloni, A., Chernozhukov, V., & Hansen, C. (2014)**: "[Inference on Treatment Effects after Selection among High-Dimensional Controls](https://academic.oup.com/restud/article/81/2/608/1523757)." *The Review of Economic Studies, Volume 81, Issue 2, 608–650.*
-4. **Fernández-Val, Iván and Martin Weidner. (2016)**: "[Individual and Time Effects in Nonlinear Panel Models with Large N, T](https://www.sciencedirect.com/science/article/pii/S0304407615002997)." *Journal of Econometrics, 192(1):291–312, 2016.*
-5. **Gobillon, Laurent and Thierry Magnac. (2016)**: "[Regional Policy Evaluation: Interactive Fixed Effects and Synthetic Controls](https://doi.org/10.1162/REST_a_00537)." *Review of Economics and Statistics, 98(3):535–551, 2016.*
+3. **Fernández-Val, Iván and Martin Weidner. (2016)**: "[Individual and Time Effects in Nonlinear Panel Models with Large N, T](https://www.sciencedirect.com/science/article/pii/S0304407615002997)." *Journal of Econometrics, 192(1):291–312, 2016.*
+4. **Gobillon, Laurent and Thierry Magnac. (2016)**: "[Regional Policy Evaluation: Interactive Fixed Effects and Synthetic Controls](https://doi.org/10.1162/REST_a_00537)." *Review of Economics and Statistics, 98(3):535–551, 2016.*
+5. **Athey, S., & Imbens, G. W. (2017)**: "[The State of Applied Econometrics: Causality and Policy Evaluation](https://www.aeaweb.org/articles?id=10.1257/jep.31.2.3)." *Journal of Economic Perspectives, 31 (2): 3-32.*
 6. **Freyberger, Joachim. (2018)**: "[Non-parametric Panel Data Models with Interactive Fixed Effects](https://www.jstor.org/stable/26543950)." *The Review of Economic Studies, 85(3):1824–1851.*
 7. **Feng, Yingjie. (2020)**: "[Causal Inference in Possibly Nonlinear Factor Models](https://doi.org/10.48550/arXiv.2008.13651)." *arXiv:2008.13651.*
 8. **Abadie, Alberto, Susan Athey, Guido W Imbens, and Jeffrey M Wooldridge. (2020)**: "[Sampling-based versus Design-based Uncertainty in Regression Analysis](https://doi.org/10.3982/ECTA12675)." *Econometrica, 88: 265-296.*
@@ -167,18 +167,18 @@ Welcome to the Causal Panel Data Reading List, an essential collection of resour
 ### Specialized Topics 
 
 ### Marginal structural models (MSMs)
-1. **Robins, J M, M A Hernán, and B Brumback. (2000)**: "Marginal Structural Models and Causal Inference in Epidemiology." Epidemiology 11(5):550–560.
-2. **Blackwell, Matthew. (2013)**: "A Framework for Dynamic Causal Inference in Political Science." American journal of political science 57(2):504–520. Blackwell provides a framework for assessing causality in dynamic political contexts.
-3. **Blackwell, M. and Yamauchi, S. (2021)**: "Adjusting for Unmeasured Confounding in Marginal Structural Models".arXiv preprint, arXiv:2105.03478
-4. **Imai, Kosuke, In Song Kim, and Erik Wang. (2023)**: "Matching Methods for Causal Inference with Time-Series Cross-Section Data." The authors propose matching methods tailored for time-series cross-section data in causal inference. American Journal of Political Science, Vol. 67, No. 3: 587–605.
+
+1. **Robins, J M, M A Hernán, and B Brumback. (2000)**: "[Marginal Structural Models and Causal Inference in Epidemiology](https://journals.lww.com/epidem/fulltext/2000/09000/marginal_structural_models_and_causal_inference_in.11.aspx)." *Epidemiology 11(5):550–560.*
+2. **Blackwell, Matthew. (2013)**: "[A Framework for Dynamic Causal Inference in Political Science](https://doi.org/10.1111/j.1540-5907.2012.00626.x)." *American Journal of Political Science 57(2):504–520.* Blackwell provides a framework for assessing causality in dynamic political contexts.
+3. **Blackwell, M. and Yamauchi, S. (2021)**: "[Adjusting for Unmeasured Confounding in Marginal Structural Models](https://doi.org/10.48550/arXiv.2105.03478)." *arXiv preprint arXiv:2105.03478.*
+4. **Imai, Kosuke, In Song Kim, and Erik Wang. (2023)**: "[Matching Methods for Causal Inference with Time-Series Cross-Section Data](https://doi.org/10.1111/ajps.12685)." *American Journal of Political Science, Vol. 67, No. 3: 587–605.* The authors propose matching methods tailored for time-series cross-section data in causal inference.
 
 
 ## Software and Practical Guides
 ### Software and Practical Guides
-1. **Liu, L., Wang, Y., and Xu, Y. (2022)**: "A Practical Guide to Counterfactual Estimators for Causal Inference with Time-Series Cross-Sectional Data". American Journal of Political Science, May 2022, Pp. 1–17. Practical guide for implementing counterfactual estimators.
-2. **Mou, H., Liu, L., and Xu, Y. (2023)**: "Panel Data Visualization in R (panelView) and Stata (panelview)". Journal of Statistical Software, 107(7), 1–20. Tools for visualizing panel data.
-3. **Xu, Yiqing. (2023)**: "Causal Inference with Time-Series Cross-Sectional Data: A Reflection." In Oxford Handbook of Engaged Methodological Pluralism in Political Science (Vol 1).  Xu provides a comprehensive reflection on the challenges of causal inference within the context of time-series cross-sectional data.
 
-
+1. **Liu, L., Wang, Y., and Xu, Y. (2022)**: "[A Practical Guide to Counterfactual Estimators for Causal Inference with Time-Series Cross-Sectional Data](https://doi.org/10.1111/ajps.12723)." *American Journal of Political Science, May 2022, Pp. 1–17.* Practical guide for implementing counterfactual estimators.
+2. **Mou, H., Liu, L., and Xu, Y. (2023)**: "[Panel Data Visualization in R (panelView) and Stata (panelview)](https://www.jstatsoft.org/article/view/v107i07)." *Journal of Statistical Software, 107(7), 1–20.* Tools for visualizing panel data.
+3. **Xu, Yiqing. (2023)**: "[Causal Inference with Time-Series Cross-Sectional Data: A Reflection](https://academic.oup.com/edited-volume/52557/chapter/425773874)." *In Oxford Handbook of Engaged Methodological Pluralism in Political Science (Vol 1).* Xu provides a comprehensive reflection on the challenges of causal inference within the context of time-series cross-sectional data.
 
 
