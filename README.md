@@ -150,18 +150,18 @@ Welcome to the Causal Panel Data Reading List, an essential collection of resour
 ### Methodological Advances 
 
 ### Advanced Methodological Texts
-1. **Athey, S., & Imbens, G. W. (2017)**: "The State of Applied Econometrics: Causality and Policy Evaluation". Journal of Economic Perspectives, 31 (2): 3-32.  
-2. **Chernozhukov, V., Hansen, C., & Spindler, M. (2015)**: "Valid Post-Selection and Post-Regularization Inference: An Elementary, General Approach". Annual Review of Economics 2015 7:1, 649-688. For readers interested in post-selection inference, crucial for understanding model selection in causal analysis.
-3. **Belloni, A., Chernozhukov, V., & Hansen, C. (2014)**: "Inference on Treatment Effects after Selection among High-Dimensional Controls". The Review of Economic Studies, Volume 81, Issue 2: 608–650. This paper provides practical guidance on dealing with high-dimensional controls in causal inference.
-4. **Fernández-Val, Iván and Martin Weidner. (2016)**: "Individual and Time Effects in Nonlinear Panel Models with Large N, T." Journal of Econometrics, 192(1):291–312, 2016. The authors examine the estimation of individual and time effects in nonlinear panel models with large dimensions.
-5. **Gobillon, Laurent and Thierry Magnac. (2016)**: "Regional Policy Evaluation: Interactive Fixed Effects and Synthetic Controls." Review of Economics and Statistics, 98(3):535–551, 2016. Gobillon and Magnac evaluate regional policies using interactive fixed effects models and synthetic controls.
-6. **Freyberger, Joachim. (2018)**: "Non-parametric Panel Data Models with Interactive Fixed Effects." The Review of Economic Studies, 85(3):1824–1851. Freyberger discusses non-parametric panel data models and their application in econometric analysis.
-7. **Feng, Yingjie. (2020)**: "Causal Inference in Possibly Nonlinear Factor Models." arXiv:2008.13651. Feng explores causal inference within potentially nonlinear factor models, expanding the toolbox for dealing with complex data structures.
-8. **Abadie, Alberto, Susan Athey, Guido W Imbens, and Jeffrey M Wooldridge. (2020)**: "Sampling-based versus Design-based Uncertainty in Regression Analysis." Econometrica, 88: 265-296. The authors discuss the differences between sampling-based and design-based approaches to uncertainty in regression analysis, providing guidance on when each approach is appropriate.
-9. **Deaner, Ben. (2021)**: "Proxy Controls and Panel Data." arXiv preprint arXiv:1810.00283. This paper addresses the integration of proxy controls in panel data models for causal analysis.
-10. **Tyler, Matthew. (2021)**: "Counterfactual Forecasting: Causal Inference without Simultaneous Controls." Mimeo, Stanford University.  Tyler's manuscript addresses the methodology of causal inference forecasting without the need for simultaneous control variables. 
-11. **Wang, Ye. (2021)**: "Causal Inference under Temporal and Spatial Interference." Mimeo, New York University.  Wang's work delves into the complexities of causal inference when dealing with interference across both time and space.
-12. **Abadie, Alberto, Susan Athey, Guido W Imbens, and Jeffrey M Wooldridge. (2023)**: "When Should You Adjust Standard Errors for Clustering?" The Quarterly Journal of Economics, 138(1):1–35. This article addresses the crucial question of when to adjust standard errors for clustering in statistical analysis, offering best practices for researchers.
+1. **Athey, S., & Imbens, G. W. (2017)**: "[The State of Applied Econometrics: Causality and Policy Evaluation](https://www.aeaweb.org/articles?id=10.1257/jep.31.2.3)." *Journal of Economic Perspectives, 31 (2): 3-32.*
+2. **Chernozhukov, V., Hansen, C., & Spindler, M. (2015)**: "[Valid Post-Selection and Post-Regularization Inference: An Elementary, General Approach](https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-012315-015826)." *Annual Review of Economics 2015 7:1, 649-688.*
+3. **Belloni, A., Chernozhukov, V., & Hansen, C. (2014)**: "[Inference on Treatment Effects after Selection among High-Dimensional Controls](https://academic.oup.com/restud/article/81/2/608/1523757)." *The Review of Economic Studies, Volume 81, Issue 2, 608–650.*
+4. **Fernández-Val, Iván and Martin Weidner. (2016)**: "[Individual and Time Effects in Nonlinear Panel Models with Large N, T](https://www.sciencedirect.com/science/article/pii/S0304407615002997)." *Journal of Econometrics, 192(1):291–312, 2016.*
+5. **Gobillon, Laurent and Thierry Magnac. (2016)**: "[Regional Policy Evaluation: Interactive Fixed Effects and Synthetic Controls](https://doi.org/10.1162/REST_a_00537)." *Review of Economics and Statistics, 98(3):535–551, 2016.*
+6. **Freyberger, Joachim. (2018)**: "[Non-parametric Panel Data Models with Interactive Fixed Effects](https://www.jstor.org/stable/26543950)." *The Review of Economic Studies, 85(3):1824–1851.*
+7. **Feng, Yingjie. (2020)**: "[Causal Inference in Possibly Nonlinear Factor Models](https://doi.org/10.48550/arXiv.2008.13651)." *arXiv:2008.13651.*
+8. **Abadie, Alberto, Susan Athey, Guido W Imbens, and Jeffrey M Wooldridge. (2020)**: "[Sampling-based versus Design-based Uncertainty in Regression Analysis](https://doi.org/10.3982/ECTA12675)." *Econometrica, 88: 265-296.*
+9. **Deaner, Ben. (2021)**: "[Proxy Controls and Panel Data](https://doi.org/10.48550/arXiv.1810.00283)." *arXiv preprint arXiv:1810.00283.*
+10. **Wang, Ye. (2021)**: "[Causal Inference under Temporal and Spatial Interference](https://doi.org/10.48550/arXiv.2106.15074)." *Mimeo, New York University.*
+11. **Abadie, Alberto, Susan Athey, Guido W Imbens, and Jeffrey M Wooldridge. (2023)**: "[When Should You Adjust Standard Errors for Clustering?](https://doi.org/10.1093/qje/qjac038)" *The Quarterly Journal of Economics, 138(1):1–35.*
+
 
 ## Specialized Topics (Advanced)
 ### Specialized Topics 
