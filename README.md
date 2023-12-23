@@ -18,16 +18,15 @@ Welcome to the Causal Panel Data Reading List, an essential collection of resour
 
 ## Foundational Texts (Beginner)
 ### Foundational Texts 
-1. **Ashenfelter, O. (1978)**: "Estimating the Effect of Training Programs on Earnings." The Review of Economics and Statistics, Vol. 60, No. 1 (Feb., 1978), pp. 47-57. Ashenfelter's paper is recognized for its early use of the Difference in Differences (DID) approach to estimate the impact of job training programs on earnings.
 1. **Ashenfelter, O. (1978)**: "[Estimating the Effect of Training Programs on Earnings](https://www.jstor.org/stable/1924332)." *The Review of Economics and Statistics, Vol. 60, No. 1 (Feb., 1978), pp. 47-57.* Ashenfelter's paper is recognized for its early use of the Difference in Differences (DID) approach to estimate the impact of job training programs on earnings.
-3. **Nickell, Stephen. (1981)**: "Biases in Dynamic Models with Fixed Effects". Econometrica: journal of the Econometric Society 49(6):1417–1426. This paper explores the potential biases in dynamic models with fixed effects.
-4. **Chamberlain, Gary. (1982)**: "Multivariate Regression Models for Panel Data." Journal of Econometrics, 18(1):5–46. Chamberlain's paper is a foundational work on the application of multivariate regression models to panel data.
-5. **Hsiao, C. (2003)**: "Analysis of Panel Data". Cambridge University Press. Detailed exploration of panel data analysis techniques. 
-6. **Wooldridge, J. M. (2010)**: "Econometric Analysis of Cross Section and Panel Data, Second Edition". Comprehensive introduction to econometrics with a focus on panel data analysis.
-7. **Beck, N. (2008)**: "Time-Series Cross-Section Methods". In Oxford Handbook of Political Methodology, edited by Janet M Box-Steffensmeier, Henry E Brady, and David Collier. Overview of methods for analyzing time-series cross-section data.
-8. **Angrist, J. D., & Pischke, J.-S. (2009)**: "Mostly Harmless Econometrics: An Empiricist's Companion". A user-friendly introduction to econometrics and causal inference.
-   
+2. **Nickell, Stephen. (1981)**: "Biases in Dynamic Models with Fixed Effects". *Econometrica: journal of the Econometric Society 49(6):1417–1426.* This paper explores the potential biases in dynamic models with fixed effects. [Access here](https://www.jstor.org/stable/1912526).
+3. **Chamberlain, Gary. (1982)**: "Multivariate Regression Models for Panel Data." *Journal of Econometrics, 18(1):5–46.* Chamberlain's paper is a foundational work on the application of multivariate regression models to panel data. [Access here](https://www.sciencedirect.com/science/article/pii/030440768290002X).
+4. **Hsiao, C. (2003)**: "Analysis of Panel Data". *Cambridge University Press.* Detailed exploration of panel data analysis techniques. [Access here](https://www.cambridge.org/core/books/analysis-of-panel-data/44AE254A3F60B1CD9B5B47B8C4BBE9B6).
+5. **Beck, N. (2008)**: "Time-Series Cross-Section Methods". In *Oxford Handbook of Political Methodology*, edited by Janet M Box-Steffensmeier, Henry E Brady, and David Collier. Overview of methods for analyzing time-series cross-section data. [Access here](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199286546.001.0001/oxfordhb-9780199286546-e-22).
+6. **Angrist, J. D., & Pischke, J.-S. (2009)**: "Mostly Harmless Econometrics: An Empiricist's Companion". *Princeton University Press.* A user-friendly introduction to econometrics and causal inference. [Access here](https://press.princeton.edu/books/paperback/9780691120355/mostly-harmless-econometrics).
+7. **Wooldridge, J. M. (2010)**: "Econometric Analysis of Cross Section and Panel Data, Second Edition". *MIT Press.* Comprehensive introduction to econometrics with a focus on panel data analysis. [Access here](https://mitpress.mit.edu/books/econometric-analysis-cross-section-and-panel-data-second-edition).
 
+   
 ## Introduction to Time-Series Cross-Sectional Data (TSCS) (Beginner to Intermediate)
 ### Introduction to Time-Series Cross-Sectional Data
 
