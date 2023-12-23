@@ -13,7 +13,6 @@ Welcome to the Causal Panel Data Reading List, an essential collection of resour
 * [Introduction to Causal Panel Data(Advanced)](#introduction-to-causal-panel-data)
 * [ Specialized Topics (Advanced)](#specialized-topics)
     * [Marginal structural models (MSMs)](#marginal-structural-models-(MSMs))
-    * [PanelMatch](#panelmatch)
 * [ Software and Practical Guides](#software-and-practical-guides)
 
 ## Foundational Texts (Beginner)
