@@ -124,26 +124,25 @@ Volume 225, Issue 2, 175-199
 
 ## Introduction to Causal Inference (Intermediate)
 ### Introduction to Causal Inference
-1. **Rubin, D. B. (1978)**: "Bayesian Inference for Causal Effects: The Role of Randomization". A pioneering paper that advanced the Bayesian approach to causal inference, emphasizing the importance of randomization and laying foundational concepts for the Rubin Causal Model.
-2. **Imbens, G. W., & Wooldridge, J. M. (2009)**: "Recent Developments in the Econometrics of Program Evaluation". Insightful overview of econometric methods for program evaluation, integral to causal panel data analysis.
-3. **Imbens, G. W. (2010)**: "Better LATE Than Nothing". Discusses instrumental variables and their applications.
-4. **Hahn, J., Todd, P., & Van der Klaauw, W. (2001)**: "Identification and Estimation of Treatment Effects with a Regression-Discontinuity Design". An influential paper on regression-discontinuity design, a cutting-edge method in causal inference.
-5. **Morgan, S. L., & Winship, C. (2014)**: "Counterfactuals and Causal Inference: Methods and Principles for Social Research". A comprehensive exploration of counterfactual reasoning and its applications in social research, essential for understanding causal inference.
-6. **Aronow, Peter M and Cyrus Samii. (2016)**: "Does Regression Produce Representative Estimates of Causal Effects?" The authors examine the assumptions under which regression methods yield unbiased causal estimates.
-7. **Chernozhukov, Victor, Kaspar Wuthrich, and Yinchu Zhu. (2017)**: "An Exact and Robust Conformal Inference Method for Counterfactual and Synthetic Controls." Chernozhukov presents a robust method for counterfactual prediction and policy analysis.
-8. **Doudchenko, Nikolay and Guido W Imbens. (2016)**: "Balancing, Regression, Difference-in-Differences and Synthetic Control Methods: A Synthesis." Technical report, National Bureau of Economic Research. Doudchenko and Imbens synthesize various methods used for causal inference, including balancing and synthetic controls
+1. **Rubin, D. B. (1978)**: "Bayesian Inference for Causal Effects: The Role of Randomization". The Annals of Statistics, Vol. 6, No. 1：34-58. A pioneering paper that advanced the Bayesian approach to causal inference, emphasizing the importance of randomization and laying foundational concepts for the Rubin Causal Model.
+2. **Imbens, G. W., & Wooldridge, J. M. (2009)**: "Recent Developments in the Econometrics of Program Evaluation". Journal of Economic Literature, 47 (1): 5-86. Insightful overview of econometric methods for program evaluation, integral to causal panel data analysis.
+3. **Imbens, G. W. (2010)**: "Better LATE Than Nothing". Journal of Economic Literature, 48 (2): 399-423. Discusses instrumental variables and their applications.
+4. **Hahn, J., Todd, P., & Van der Klaauw, W. (2001)**: "Identification and Estimation of Treatment Effects with a Regression-Discontinuity Design". Econometrica, 69(1), 201–209. An influential paper on regression-discontinuity design, a cutting-edge method in causal inference.
+5. **Morgan, S. L., & Winship, C. (2014)**: "Counterfactuals and Causal Inference: Methods and Principles for Social Research". Cambridge: Cambridge University Press. A comprehensive exploration of counterfactual reasoning and its applications in social research, essential for understanding causal inference.
+6. **Aronow, Peter M and Cyrus Samii. (2016)**: "Does Regression Produce Representative Estimates of Causal Effects?" American Journal of Political Science, 60(1), 250–267. The authors examine the assumptions under which regression methods yield unbiased causal estimates.
+7. **Doudchenko, Nikolay and Guido W Imbens. (2016)**: "Balancing, Regression, Difference-in-Differences and Synthetic Control Methods: A Synthesis." Technical report, National Bureau of Economic Research. Doudchenko and Imbens synthesize various methods used for causal inference, including balancing and synthetic controls
 
 
 
 ## Introduction to Causal Panel Data (Advanced)
 ### Introduction to Causal Panel Data 
-1. **Hazlett, Chad and Yiqing Xu. (2018)**: "Trajectory Balancing: A General Reweighting Approach to Causal Inference With Time-Series Cross-Sectional Data." This manuscript introduces trajectory balancing for causal inference in time-series cross-sectional data.
-2. **Blackwell, Matthew and Adam Glynn. (2018)**: "How to Make Causal Inferences with Time-Series Cross-Sectional Data Under Selection on Observables." The authors discuss causal inference methodologies in the context of time-series cross-sectional data.
-3. **Arkhangelsky, D. and Imbens, G. W. (2019)**: "Double-Robust Identification for Causal Panel Data Models". Discusses double-robust methods in panel data.
-4. **Imai, Kosuke and In Song Kim. (2019)**: "When Should We Use Unit Fixed Effects Regression Models for Causal Inference with Longitudinal Data?"  This paper addresses the use of fixed effects models for causal analysis with longitudinal data.
-5. **Aronow, Peter M, Cyrus Samii, and Ye Wang. (2020)**: "Design-Based Inference for Spatial Experiments with Interference." This study tackles the challenge of interference in spatial experimental designs.
-6. **Tyler, Matthew. (2021)**: "Counterfactual Forecasting: Causal Inference without Simultaneous Controls."
-7. **Ying, Andrew, Wang Miao, Xu Shi, and Eric J Tchetgen Tchetgen. (2021)**: "Proximal Causal Inference for Complex Longitudinal Studies." This preprint introduces proximal causal inference methods tailored for complex longitudinal studies.
+1. **Hazlett, Chad and Yiqing Xu. (2018)**: "Trajectory Balancing: A General Reweighting Approach to Causal Inference With Time-Series Cross-Sectional Data." Available at SSRN: https://ssrn.com/abstract=3214231. This manuscript introduces trajectory balancing for causal inference in time-series cross-sectional data.
+2. **Blackwell, Matthew and Adam Glynn. (2018)**: "How to Make Causal Inferences with Time-Series Cross-Sectional Data Under Selection on Observables." The American Political Science Review, 112(2):1067–1082. The authors discuss causal inference methodologies in the context of time-series cross-sectional data.
+3. **Imai, Kosuke and In Song Kim. (2019)**: "When Should We Use Unit Fixed Effects Regression Models for Causal Inference with Longitudinal Data?"  This paper addresses the use of fixed effects models for causal analysis with longitudinal data.
+4. **Aronow, Peter M, Cyrus Samii, and Ye Wang. (2020)**: "Design-Based Inference for Spatial Experiments with Interference." This study tackles the challenge of interference in spatial experimental designs.
+5. **Tyler, Matthew. (2021)**: "Counterfactual Forecasting: Causal Inference without Simultaneous Controls."
+6. **Ying, Andrew, Wang Miao, Xu Shi, and Eric J Tchetgen Tchetgen. (2021)**: "Proximal Causal Inference for Complex Longitudinal Studies." This preprint introduces proximal causal inference methods tailored for complex longitudinal studies.
+7. **Arkhangelsky, D. and Imbens, G. W. (2022)**: "Double-Robust Identification for Causal Panel Data Models". The Econometrics Journal, Volume 25, Issue 3: 649–674. Discusses double-robust methods in panel data.
 
 
 
@@ -151,36 +150,34 @@ Volume 225, Issue 2, 175-199
 ### Methodological Advances 
 
 ### Advanced Methodological Texts
-1. **Athey, S., & Imbens, G. W. (2017)**: "The State of Applied Econometrics: Causality and Policy Evaluation". 
-2. **Chernozhukov, V., Hansen, C., & Spindler, M. (2015)**: "Valid Post-Selection and Post-Regularization Inference: An Elementary, General Approach". For readers interested in post-selection inference, crucial for understanding model selection in causal analysis.
-3. **Belloni, A., Chernozhukov, V., & Hansen, C. (2014)**: "Inference on Treatment Effects after Selection among High-Dimensional Controls". This paper provides practical guidance on dealing with high-dimensional controls in causal inference.
-4. **Fernández-Val, Iván and Martin Weidner. (2016)**: "Individual and Time Effects in Nonlinear Panel Models with Large N, T." The authors examine the estimation of individual and time effects in nonlinear panel models with large dimensions.
-5. **Gobillon, Laurent and Thierry Magnac. (2016)**: "Regional Policy Evaluation: Interactive Fixed Effects and Synthetic Controls." Gobillon and Magnac evaluate regional policies using interactive fixed effects models and synthetic controls.
-6. **Freyberger, Joachim. (2018)**: "Non-parametric Panel Data Models with Interactive Fixed Effects." Freyberger discusses non-parametric panel data models and their application in econometric analysis.
-7. **Feng, Yingjie. (2020)**: "Causal Inference in Possibly Nonlinear Factor Models." Feng explores causal inference within potentially nonlinear factor models, expanding the toolbox for dealing with complex data structures.
-8. **Abadie, Alberto, Susan Athey, Guido W Imbens, and Jeffrey M Wooldridge. (2020)**: "Sampling-based versus Design-based Uncertainty in Regression Analysis." The authors discuss the differences between sampling-based and design-based approaches to uncertainty in regression analysis, providing guidance on when each approach is appropriate.
-9. **Deaner, Ben. (2021)**: "Proxy Controls and Panel Data." This paper addresses the integration of proxy controls in panel data models for causal analysis.
-10. **Tyler, Matthew. (2021)**: "Counterfactual Forecasting: Causal Inference without Simultaneous Controls."  Tyler's manuscript addresses the methodology of causal inference forecasting without the need for simultaneous control variables.
-11. **Wang, Ye. (2021)**: "Causal Inference under Temporal and Spatial Interference."  Wang's work delves into the complexities of causal inference when dealing with interference across both time and space.
-12. **Abadie, Alberto, Susan Athey, Guido W Imbens, and Jeffrey M Wooldridge. (2023)**: "When Should You Adjust Standard Errors for Clustering?" This article addresses the crucial question of when to adjust standard errors for clustering in statistical analysis, offering best practices for researchers.
+1. **Athey, S., & Imbens, G. W. (2017)**: "The State of Applied Econometrics: Causality and Policy Evaluation". Journal of Economic Perspectives, 31 (2): 3-32.  
+2. **Chernozhukov, V., Hansen, C., & Spindler, M. (2015)**: "Valid Post-Selection and Post-Regularization Inference: An Elementary, General Approach". Annual Review of Economics 2015 7:1, 649-688. For readers interested in post-selection inference, crucial for understanding model selection in causal analysis.
+3. **Belloni, A., Chernozhukov, V., & Hansen, C. (2014)**: "Inference on Treatment Effects after Selection among High-Dimensional Controls". The Review of Economic Studies, Volume 81, Issue 2: 608–650. This paper provides practical guidance on dealing with high-dimensional controls in causal inference.
+4. **Fernández-Val, Iván and Martin Weidner. (2016)**: "Individual and Time Effects in Nonlinear Panel Models with Large N, T." Journal of Econometrics, 192(1):291–312, 2016. The authors examine the estimation of individual and time effects in nonlinear panel models with large dimensions.
+5. **Gobillon, Laurent and Thierry Magnac. (2016)**: "Regional Policy Evaluation: Interactive Fixed Effects and Synthetic Controls." Review of Economics and Statistics, 98(3):535–551, 2016. Gobillon and Magnac evaluate regional policies using interactive fixed effects models and synthetic controls.
+6. **Freyberger, Joachim. (2018)**: "Non-parametric Panel Data Models with Interactive Fixed Effects." The Review of Economic Studies, 85(3):1824–1851. Freyberger discusses non-parametric panel data models and their application in econometric analysis.
+7. **Feng, Yingjie. (2020)**: "Causal Inference in Possibly Nonlinear Factor Models." arXiv:2008.13651. Feng explores causal inference within potentially nonlinear factor models, expanding the toolbox for dealing with complex data structures.
+8. **Abadie, Alberto, Susan Athey, Guido W Imbens, and Jeffrey M Wooldridge. (2020)**: "Sampling-based versus Design-based Uncertainty in Regression Analysis." Econometrica, 88: 265-296. The authors discuss the differences between sampling-based and design-based approaches to uncertainty in regression analysis, providing guidance on when each approach is appropriate.
+9. **Deaner, Ben. (2021)**: "Proxy Controls and Panel Data." arXiv preprint arXiv:1810.00283. This paper addresses the integration of proxy controls in panel data models for causal analysis.
+10. **Tyler, Matthew. (2021)**: "Counterfactual Forecasting: Causal Inference without Simultaneous Controls." Mimeo, Stanford University.  Tyler's manuscript addresses the methodology of causal inference forecasting without the need for simultaneous control variables. 
+11. **Wang, Ye. (2021)**: "Causal Inference under Temporal and Spatial Interference." Mimeo, New York University.  Wang's work delves into the complexities of causal inference when dealing with interference across both time and space.
+12. **Abadie, Alberto, Susan Athey, Guido W Imbens, and Jeffrey M Wooldridge. (2023)**: "When Should You Adjust Standard Errors for Clustering?" The Quarterly Journal of Economics, 138(1):1–35. This article addresses the crucial question of when to adjust standard errors for clustering in statistical analysis, offering best practices for researchers.
 
 ## Specialized Topics (Advanced)
 ### Specialized Topics 
 
 ### Marginal structural models (MSMs)
-1. **Robins, J M, M A Hernán, and B Brumback. (2000)**: "Marginal Structural Models and Causal Inference in Epidemiology."
-2. **Blackwell, Matthew. (2013)**: "A Framework for Dynamic Causal Inference in Political Science." Blackwell provides a framework for assessing causality in dynamic political contexts.
-3. **Blackwell, M. and Yamauchi, S. (2021)**: "Adjusting for Unmeasured Confounding in Marginal Structural Models". 
-4. **Blackwell, Matthew and Soichiro Yamauchi. (2021)**: "Adjusting for Unmeasured Confounding in Marginal Structural Models with Propensity-Score Fixed Effects."
-### PanelMatch
-1. **Imai, Kosuke, In Song Kim, and Erik Wang. (2021)**: "Matching Methods for Causal Inference with Time-Series Cross-Section Data." The authors propose matching methods tailored for time-series cross-section data in causal inference.
+1. **Robins, J M, M A Hernán, and B Brumback. (2000)**: "Marginal Structural Models and Causal Inference in Epidemiology." Epidemiology 11(5):550–560.
+2. **Blackwell, Matthew. (2013)**: "A Framework for Dynamic Causal Inference in Political Science." American journal of political science 57(2):504–520. Blackwell provides a framework for assessing causality in dynamic political contexts.
+3. **Blackwell, M. and Yamauchi, S. (2021)**: "Adjusting for Unmeasured Confounding in Marginal Structural Models".arXiv preprint, arXiv:2105.03478
+4. **Imai, Kosuke, In Song Kim, and Erik Wang. (2023)**: "Matching Methods for Causal Inference with Time-Series Cross-Section Data." The authors propose matching methods tailored for time-series cross-section data in causal inference. American Journal of Political Science, Vol. 67, No. 3: 587–605.
 
 
 ## Software and Practical Guides
 ### Software and Practical Guides
-1. **Liu, L., Wang, Y., and Xu, Y. (2022)**: "A Practical Guide to Counterfactual Estimators for Causal Inference with Time-Series Cross-Sectional Data". Practical guide for implementing counterfactual estimators.
-2. **Mou, H., Liu, L., and Xu, Y. (2023)**: "Panel Data Visualization in R (panelView) and Stata (panelview)". Tools for visualizing panel data.
-3. **Xu, Yiqing. (2023)**: "Causal Inference with Time-Series Cross-Sectional Data: A Reflection."  Xu provides a comprehensive reflection on the challenges of causal inference within the context of time-series cross-sectional data.
+1. **Liu, L., Wang, Y., and Xu, Y. (2022)**: "A Practical Guide to Counterfactual Estimators for Causal Inference with Time-Series Cross-Sectional Data". American Journal of Political Science, May 2022, Pp. 1–17. Practical guide for implementing counterfactual estimators.
+2. **Mou, H., Liu, L., and Xu, Y. (2023)**: "Panel Data Visualization in R (panelView) and Stata (panelview)". Journal of Statistical Software, 107(7), 1–20. Tools for visualizing panel data.
+3. **Xu, Yiqing. (2023)**: "Causal Inference with Time-Series Cross-Sectional Data: A Reflection." In Oxford Handbook of Engaged Methodological Pluralism in Political Science (Vol 1).  Xu provides a comprehensive reflection on the challenges of causal inference within the context of time-series cross-sectional data.
 
 
 
