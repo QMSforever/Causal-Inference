@@ -130,7 +130,7 @@ Welcome to the Causal Panel Data Reading List, an essential collection of resour
 
 ## Introduction to Causal Inference (Intermediate)
 ### Introduction to Causal Inference
-1. **Rubin, D. B. (1978)**: "[Bayesian Inference for Causal Effects: The Role of Randomization](https://www.jstor.org/stable/2958688)." *The Annals of Statistics, Vol. 6, No. 1, pp. 34-58.* A pioneering paper that advanced the Bayesian approach to causal inference, emphasizing the importance of randomization and laying foundational concepts for the Rubin Causal Model.
+1. **Rubin, D. B. (1978)**: "[Bayesian Inference for Causal Effects: The Role of Randomization](https://www.jstor.org/stable/2958688)." *The Annals of Statistics, Vol. 6, No. 1, pp. 34-58.* 
 2. **Hahn, J., Todd, P., & Van der Klaauw, W. (2001)**: "[Identification and Estimation of Treatment Effects with a Regression-Discontinuity Design](https://www.jstor.org/stable/2692190)." *Econometrica, 69(1), 201–209.* 
 3. **Imbens, G. W., & Wooldridge, J. M. (2009)**: "[Recent Developments in the Econometrics of Program Evaluation](https://www.aeaweb.org/articles?id=10.1257/jel.47.1.5)." *Journal of Economic Literature, 47 (1): 5-86.* 
 4. **Imbens, G. W. (2010)**: "[Better LATE Than Nothing](https://www.aeaweb.org/articles?id=10.1257/jel.48.2.399)." *Journal of Economic Literature, 48 (2): 399-423.* Discusses instrumental variables and their applications.
