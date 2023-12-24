@@ -196,6 +196,6 @@ Welcome to the Causal Panel Data Reading List, an essential collection of resour
 
 1. **Liu, L., Wang, Y., and Xu, Y. (2022)**: "[A Practical Guide to Counterfactual Estimators for Causal Inference with Time-Series Cross-Sectional Data](https://doi.org/10.1111/ajps.12723)." *American Journal of Political Science, May 2022, Pp. 1–17.* Practical guide for implementing counterfactual estimators.
 2. **Mou, H., Liu, L., and Xu, Y. (2023)**: "[Panel Data Visualization in R (panelView) and Stata (panelview)](https://www.jstatsoft.org/article/view/v107i07)." *Journal of Statistical Software, 107(7), 1–20.* Tools for visualizing panel data.
-3. **Xu, Yiqing. (2023)**: "[Causal Inference with Time-Series Cross-Sectional Data: A Reflection](https://academic.oup.com/edited-volume/52557/chapter/425773874)." *In Oxford Handbook of Engaged Methodological Pluralism in Political Science (Vol 1).* Xu provides a comprehensive reflection on the challenges of causal inference within the context of time-series cross-sectional data.
+3. **Xu, Yiqing. (2023)**: "[Causal Inference with Time-Series Cross-Sectional Data: A Reflection](https://academic.oup.com/edited-volume/52557/chapter/425773874)." In *Oxford Handbook of Engaged Methodological Pluralism in Political Science (Vol 1).* Yiqing provides a comprehensive reflection on the challenges of causal inference within the context of time-series cross-sectional data.
 
 
