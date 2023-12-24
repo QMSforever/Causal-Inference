@@ -97,7 +97,7 @@ Welcome to the Causal Panel Data Reading List, an essential collection of resour
 11. **Sant’Anna, Pedro HC and Jun Zhao. (2020)**: "[Doubly Robust Difference-in-Differences Estimators](https://www.sciencedirect.com/science/article/pii/S0304407620301901)." *Journal of Econometrics, 219(1):101–122.*
 12. **De Chaisemartin, Clément and Xavier d’Haultfœuille. (2020)**: "[Two-way Fixed Effects Estimators with Heterogeneous Treatment Effects](https://www.aeaweb.org/articles?id=10.1257/aer.20181169)." *American Economic Review, 110(9):2964–2996.*
 13. **Callaway, Brantly and Sonia Karami. (2021)**: "[Treatment Effects in Interactive Fixed Effects Models](https://arxiv.org/abs/2006.15780)." *Mimeo, University of Georgia*
-14. **Arkhangelsky, Dmitry, Guido W Imbens, Lihua Lei, and Xiaoman Luo. (2021)**: "[Double-Robust Two-Way-Fixed-Effects Regression For Panel Data](https://arxiv.org/abs/2107.13737)." *arXiv:2107.13737*
+14. **Arkhangelsky, Dmitry, Guido W Imbens, Lihua Lei, and Xiaoman Luo. (2021)**: "[Double-Robust Two-Way-Fixed-Effects Regression For Panel Data](https://arxiv.org/abs/2107.13737)." *arXiv preprint arXiv:2107.13737*
 15. **Wooldridge, Jeffrey M. (2021)**: "[Two-Way Fixed Effects, the Two-Way Mundlak Regression, and Difference-in-Differences Estimators](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3906345)." *Mimeo*
 16. **De Chaisemartin, Clément and Xavier D’haultfœuille. (2022)**: "[Two-way Fixed Effects and Differences-in-Differences with Heterogeneous Treatment Effects: A Survey](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3980758)" *The Econometrics Journal, Volume 26, Issue 3, 1-30.*
 
