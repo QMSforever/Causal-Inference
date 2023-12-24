@@ -32,9 +32,9 @@ Welcome to the Causal Panel Data Reading List, an essential collection of resour
 ### Introduction to Time-Series Cross-Sectional Data
 
 1. **Mundlak, Yair. (1978)**: "[On the Pooling of Time Series and Cross Section Data](https://www.jstor.org/stable/1913646)." *Econometrica 46(1):69–85.* 
-2. **Rosenbaum, Paul R and Donald B Rubin. (1983)**: "[The Central Role of the Propensity Score in Observational Studies for Causal Effects](https://www.jstor.org/stable/2335942)." 
-3. **Heckman, James J. (1981)**. "[Statistical Models for Discrete Panel Data](https://eml.berkeley.edu/discrete/ch3.pdf)." In *Structural Analysis of Discrete Data with Econometric Applications, pages 114-178.* 
-4. **Deaton, Angus. (1985)**: "[Panel Data from Time Series of Cross-Sections](https://www.sciencedirect.com/science/article/pii/0304407685901344)." *Journal of Econometrics Volume 30, Issues 1–2, Pages 109-126.* 
+2. **Heckman, James J. (1981)**. "[Statistical Models for Discrete Panel Data](https://eml.berkeley.edu/discrete/ch3.pdf)." In *Structural Analysis of Discrete Data with Econometric Applications, pages 114-178.* 
+3. **Rosenbaum, Paul R and Donald B Rubin. (1983)**: "[The Central Role of the Propensity Score in Observational Studies for Causal Effects](https://www.jstor.org/stable/2335942)." *Biometrika, Vol. 70, No. 1, 41-55.*
+4. **Deaton, Angus. (1985)**: "[Panel Data from Time Series of Cross-Sections](https://www.sciencedirect.com/science/article/pii/0304407685901344)." *Journal of Econometrics Volume 30, Issues 1–2, 109-126.* 
 5. **Holtz-Eakin, Douglas, Whitney Newey, Harvey S. Rosen (1988)**. "[Estimating Vector Autoregressions with Panel Data](https://doi.org/10.2307/1913103)" *Econometrica, Vol. 56, No. 6 (Nov., 1988), pp. 1371-1395.* 
 6. **Beck, Nathaniel and Jonathan N Katz. (1995)**: "[What to Do (and Not to Do) with Time-Series Cross-Section Data](https://ssrn.com/abstract=1658640)." *Biometrika 70(1):41–55.* 
 7. **Beck, Nathaniel, Jonathan N Katz and Richard Tucker. (1998)**: "[Taking Time Seriously: Time-Series-Cross-Section Analysis with a Binary Dependent Variable](https://www.jstor.org/stable/2991857)." *American Journal of Political Science 42(4):1260–1288.* 
